@@ -1,0 +1,1093 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"class_name": "",
+		"background_color": "#ffffff",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "wpmenu",
+					"title": "",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-white",
+					"align": "",
+					"shape": "no-rounded",
+					"bold": "0",
+					"underline": "0",
+					"italic": "0",
+					"font": "",
+					"font_size": "16",
+					"v_color_theme": null,
+					"v_align": null,
+					"v_shape": "",
+					"v_bold": "0",
+					"v_underline": "0",
+					"v_italic": "0",
+					"v_font": "",
+					"v_font_size": "",
+					"ham_color_theme": null,
+					"ham_align": "",
+					"ham_shape": "",
+					"ham_size": "",
+					"ham_bold": "0",
+					"ham_underline": "0",
+					"ham_italic": "0",
+					"ham_font": "",
+					"ham_font_size": "",
+					"h_content_width_fixed": "1",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": "",
+					"cssClass": ""
+				}]
+			}]
+		}, {
+			"id": "{%ID-5%}",
+			"colums": [{
+				"id": "{%ID-6%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-7%}",
+					"type": "title",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<h1 style=\"text-align: center;\"><span style=\"font-weight: 400;font-size: 52px; color: #555;\">Sample <span style=\"color: #a5c9da;\">s<\/span>ite<\/span><\/h1>"
+				}, {
+					"id": "{%ID-8%}",
+					"type": "text",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<p style=\"text-align: center;\">TAGLINE TEXT TAGLINE TEXT TAGLINE TEXT<\/p>",
+					"shadow_style": "",
+					"shadow_color": "",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}]
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "",
+		"anchor_id": "",
+		"padding_top": "0",
+		"padding_bottom": "20",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": "weluka-border-bottom-grey weluka-sample-hd"
+	}, {
+		"id": "{%ID-9%}",
+		"class_name": "",
+		"background_color": "",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-10%}",
+			"colums": [{
+				"id": "{%ID-11%}",
+				"col": 12,
+				"padding_left": "0",
+				"padding_right": "0",
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "slide",
+					"cssId": "",
+					"cssClass": "weluka-nomargin",
+					"slide_effect": "fade",
+					"direction_nav": "1",
+					"paging_nav": "1",
+					"auto_slide": "1",
+					"slide_loop": "1",
+					"slideshow_msec": "7000",
+					"slide_size": "full",
+					"animation_msec": "600",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": "",
+					"slides": [{
+						"attachment_id": "-1",
+						"full": {
+							"width": "1920",
+							"height": "700",
+							"url": "{%IMG_PATH%}img1.jpg"
+						},
+						"thumbnail": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"medium": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"large": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"flg_description": "1",
+						"description": "\u30b9\u30e9\u30a4\u30c9\u753b\u50cf\u3092\u8a2d\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+						"description_position": "bottom",
+						"description_text_color": "#ffffff",
+						"description_bg_color": "rgba(0,0,0,0.54)",
+						"link": {
+							"action": "",
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"attachment_id": "-1",
+						"full": {
+							"width": "1920",
+							"height": "700",
+							"url": "{%IMG_PATH%}img2.jpg"
+						},
+						"thumbnail": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"medium": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"large": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"flg_description": "",
+						"description": "",
+						"description_position": "",
+						"description_text_color": "",
+						"description_bg_color": "",
+						"link": {
+							"action": "",
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"attachment_id": "-1",
+						"full": {
+							"width": "1920",
+							"height": "700",
+							"url": "{%IMG_PATH%}img3.jpg"
+						},
+						"thumbnail": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"medium": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"large": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"flg_description": "",
+						"description": "",
+						"description_position": "",
+						"description_text_color": "",
+						"description_bg_color": "",
+						"link": {
+							"action": "",
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"attachment_id": "-1",
+						"full": {
+							"width": "1920",
+							"height": "700",
+							"url": "{%IMG_PATH%}img4.jpg"
+						},
+						"thumbnail": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"medium": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"large": {
+							"width": "",
+							"height": "",
+							"url": ""
+						},
+						"flg_description": "",
+						"description": "",
+						"description_position": "",
+						"description_text_color": "",
+						"description_bg_color": "",
+						"link": {
+							"action": "",
+							"href": "",
+							"target": ""
+						}
+					}]
+				}]
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "",
+		"anchor_id": "",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": "weluka-samplepage2-toppanel"
+	}, {
+		"id": "{%ID-13%}",
+		"class_name": "",
+		"background_color": "",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-14%}",
+			"colums": [{
+				"id": "{%ID-15%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-16%}",
+					"type": "applist",
+					"layout_class": "mediatop",
+					"media_display": "1",
+					"title_display": "",
+					"meta1_display": "",
+					"meta2_display": "",
+					"content_display": "1",
+					"button_display": "",
+					"row_spacing": "",
+					"row_column": "3",
+					"row_odd_color": "",
+					"row_even_color": "",
+					"media_col": "4",
+					"media_align": "weluka-text-left",
+					"media_shape": null,
+					"media_border_size": "",
+					"media_border_style": "",
+					"media_border_color": "",
+					"media_icon_size": "",
+					"media_icon_color": "",
+					"title_html_tag": "h4",
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"title_font": "",
+					"title_font_size": "",
+					"title_color": "",
+					"meta1_bold": "0",
+					"meta1_underline": "0",
+					"meta1_italic": "0",
+					"meta1_align": null,
+					"meta1_font": "",
+					"meta1_font_size": "",
+					"meta1_color": "",
+					"meta2_bold": "0",
+					"meta2_underline": "0",
+					"meta2_italic": "0",
+					"meta2_align": null,
+					"meta2_font": "",
+					"meta2_font_size": "",
+					"meta2_color": "",
+					"content_align": null,
+					"content_font": "",
+					"content_font_size": "",
+					"content_color": "",
+					"button_text": "",
+					"button_align": null,
+					"button_font": "",
+					"button_color": "weluka-btn-info",
+					"button_shape": "",
+					"button_size": "",
+					"button_block": "",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": "",
+					"cssClass": "",
+					"datas": [{
+						"media": {
+							"type": "img",
+							"alt": "",
+							"attachment_id": "",
+							"external": "{%IMG_PATH%}img5.jpg",
+							"fitwidth": "on",
+							"full": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"large": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"medium": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"thumbnail": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"link": {
+								"action": "",
+								"href": "",
+								"target": ""
+							},
+							"source_type": "extern",
+							"title": "thumb_sample3_4",
+							"url": ""
+						},
+						"title": {
+							"text": "\u30ea\u30b9\u30c8\u30bf\u30a4\u30c8\u30eb\uff11"
+						},
+						"content": {
+							"text": "<p>Lorem ipsum dolor sit amet, per dicant disputando ne, sed cu rebum facete. Zril facilis mnesarchum an mei, ex nemore dolorem cotidieque nec, at mel homero feugiat delenit. Ea mel nullam sadipscing. No his simul legendos indoctum.\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002<\/p>"
+						},
+						"meta1": {
+							"text": "September 15, 2015"
+						},
+						"meta2": {
+							"text": "News, Service, Product"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"media": {
+							"type": "img",
+							"alt": "",
+							"attachment_id": "",
+							"external": "{%IMG_PATH%}img6.jpg",
+							"fitwidth": "on",
+							"full": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"large": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"medium": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"thumbnail": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"link": {
+								"action": "",
+								"href": "",
+								"target": ""
+							},
+							"source_type": "extern",
+							"title": "thumb_sample3_6",
+							"url": ""
+						},
+						"title": {
+							"text": "\u30ea\u30b9\u30c8\u30bf\u30a4\u30c8\u30eb\uff12"
+						},
+						"content": {
+							"text": "<p>Lorem ipsum dolor sit amet, per dicant disputando ne, sed cu rebum facete. Zril facilis mnesarchum an mei, ex nemore dolorem cotidieque nec, at mel homero feugiat delenit. Ea mel nullam sadipscing. No his simul legendos indoctum.\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002<\/p>"
+						},
+						"meta1": {
+							"text": "September 15, 2015"
+						},
+						"meta2": {
+							"text": "News, Service, Product"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"media": {
+							"type": "img",
+							"alt": "",
+							"attachment_id": "",
+							"external": "{%IMG_PATH%}img7.jpg",
+							"fitwidth": "on",
+							"full": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"large": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"medium": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"thumbnail": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"link": {
+								"action": "",
+								"href": "",
+								"target": ""
+							},
+							"source_type": "extern",
+							"title": "thumb_sample3_5",
+							"url": ""
+						},
+						"title": {
+							"text": "\u30ea\u30b9\u30c8\u30bf\u30a4\u30c8\u30eb\uff13"
+						},
+						"content": {
+							"text": "<p>Lorem ipsum dolor sit amet, per dicant disputando ne, sed cu rebum facete. Zril facilis mnesarchum an mei, ex nemore dolorem cotidieque nec, at mel homero feugiat delenit. Ea mel nullam sadipscing. No his simul legendos indoctum.\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002<\/p>"
+						},
+						"meta1": {
+							"text": "September 15, 2015"
+						},
+						"meta2": {
+							"text": "News, Service, Product"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}]
+				}]
+			}]
+		}],
+		"container_type": "",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#3c3c3c",
+		"anchor_id": "",
+		"padding_top": "",
+		"padding_bottom": "70",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": "weluka-samplepage2-top-section"
+	}, {
+		"id": "{%ID-17%}",
+		"class_name": "",
+		"background_color": "#a5c9da",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-18%}",
+			"colums": [{
+				"id": "{%ID-19%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-20%}",
+					"type": "img",
+					"attachment_id": "",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "weluka-text-center",
+					"shape": "",
+					"title": "thumb_sample3_10",
+					"alt": "",
+					"caption": "",
+					"description": "",
+					"width": "",
+					"height": "",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"margin_left": "",
+					"margin_right": "",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "{%IMG_PATH%}img8.jpg",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"fitwidth": "on",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}],
+				"background_color": "",
+				"color": "",
+				"border_size": "",
+				"border_style": "",
+				"border_color": "",
+				"block_shape": "",
+				"margin_top": "",
+				"margin_bottom": "",
+				"margin_left": "",
+				"margin_right": "",
+				"padding_top": "",
+				"padding_bottom": "",
+				"padding_left": "0",
+				"padding_right": "0",
+				"cssClass": ""
+			}, {
+				"id": "{%ID-21%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-22%}",
+					"type": "icon",
+					"cssId": "",
+					"cssClass": "",
+					"icon_class": "fa-hourglass-o",
+					"class_name": "weluka-text-center",
+					"icon_size": "32",
+					"icon_color": "#a5c9da",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}, {
+					"id": "{%ID-23%}",
+					"type": "title",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<h3 class=\"weluka-mgtop-xl weluka-mgbottom-xl\" style=\"text-align: center;\"><span style=\"font-size: 24px; font-weight: 600;\">SAMPLE TITLE<\/span><\/h3>\n<p>Lorem ipsum dolor sit amet, per dicant disputando ne, sed cu rebum facete. Zril facilis mnesarchum an mei, ex nemore dolorem cotidieque nec, at mel homero feugiat delenit. Ea mel nullam sadipscing. No his simul legendos indoctum.<\/p>\n<p>\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u30da\u30fc\u30b8\u3067\u3059\u3002<\/p>",
+					"shadow_style": "",
+					"shadow_color": "",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}],
+				"background_color": "#ffffff",
+				"color": "",
+				"border_size": "",
+				"border_style": "",
+				"border_color": "",
+				"block_shape": "",
+				"margin_top": "",
+				"margin_bottom": "",
+				"margin_left": "",
+				"margin_right": "",
+				"padding_top": "43",
+				"padding_bottom": "65",
+				"padding_left": "30",
+				"padding_right": "30",
+				"cssClass": ""
+			}, {
+				"id": "{%ID-24%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-25%}",
+					"type": "img",
+					"attachment_id": "",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "weluka-text-center",
+					"shape": "",
+					"title": "thumb_sample3_11",
+					"alt": "",
+					"caption": "",
+					"description": "",
+					"width": "",
+					"height": "",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"margin_left": "",
+					"margin_right": "",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "{%IMG_PATH%}img9.jpg",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"fitwidth": "on",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}],
+				"background_color": "",
+				"color": "",
+				"border_size": "",
+				"border_style": "",
+				"border_color": "",
+				"block_shape": "",
+				"margin_top": "",
+				"margin_bottom": "",
+				"margin_left": "",
+				"margin_right": "",
+				"padding_top": "",
+				"padding_bottom": "",
+				"padding_left": "0",
+				"padding_right": "0",
+				"cssClass": ""
+			}]
+		}],
+		"container_type": "",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#3c3c3c",
+		"anchor_id": "",
+		"padding_top": "70",
+		"padding_bottom": "70",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": "weluka-samplepage2-top-section"
+	}, {
+		"id": "{%ID-26%}",
+		"class_name": "",
+		"background_color": "",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-27%}",
+			"colums": [{
+				"id": "{%ID-28%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-29%}",
+					"type": "movie",
+					"attachment_id": "",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "weluka-text-center",
+					"width": "",
+					"height": "",
+					"url": "https:\/\/www.youtube.com\/watch?v=mG4G8crGQ34",
+					"source_type": "youtube",
+					"title": "",
+					"caption": "",
+					"description": "",
+					"media_width": "",
+					"media_height": "",
+					"media_time": "",
+					"mime": "",
+					"display_notitle": "on",
+					"display_nocontrol": "on",
+					"display_noauthor": "",
+					"display_nologo": "",
+					"display_norelated": "on",
+					"autoplay": "",
+					"loop": "",
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}]
+			}]
+		}],
+		"container_type": "",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "",
+		"anchor_id": "",
+		"padding_top": "70",
+		"padding_bottom": "70",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": "weluka-samplepage2-top-section"
+	}, {
+		"id": "{%ID-30%}",
+		"class_name": "",
+		"background_color": "#272727",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-31%}",
+			"colums": [{
+				"id": "{%ID-32%}",
+				"col": 2,
+				"items": [{
+					"id": "{%ID-33%}",
+					"type": "text",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<dl>\n<dt class=\"weluka-mgbottom-m\" style=\"color: #f1f1f1;\">Rooms<\/dt>\n<dd>Sample Room<\/dd>\n<dd>Sample Room<\/dd>\n<dd>Sample Room<\/dd>\n<dd>Sample Room<\/dd>\n<dd>Sample Room<\/dd>\n<\/dl>"
+				}]
+			}, {
+				"id": "{%ID-34%}",
+				"col": 2,
+				"items": [{
+					"id": "{%ID-35%}",
+					"type": "text",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<dl>\n<dt class=\"weluka-mgbottom-m\" style=\"color:#f1f1f1;\">Activities<\/dt>\n<dd>Sample Activity<\/dd>\n<dd>Sample Activity<\/dd>\n<dd>Sample Activity<\/dd>\n<dd>Sample Activity<\/dd>\n<dd>Sample Activity<\/dd>\n<\/dl>"
+				}]
+			}, {
+				"id": "{%ID-36%}",
+				"col": 2,
+				"items": [{
+					"id": "{%ID-37%}",
+					"type": "text",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<dl>\n<dt class=\"weluka-mgbottom-m\" style=\"color:#f1f1f1;\">Dining<\/dt>\n<dd>Sample Dining<\/dd>\n<dd>Sample Dining<\/dd>\n<dd>Sample Dining<\/dd>\n<dd>Sample Dining<\/dd>\n<dd>Sample Dining<\/dd>\n<\/dl>"
+				}]
+			}, {
+				"id": "{%ID-38%}",
+				"col": 2,
+				"items": [{
+					"id": "{%ID-39%}",
+					"type": "text",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<dl>\n<dt class=\"weluka-mgbottom-m\" style=\"color:#f1f1f1;\">Entertainment<\/dt>\n<dd>Sample Entertainment<\/dd>\n<dd>Sample Entertainment<\/dd>\n<dd>Sample Entertainment<\/dd>\n<dd>Sample Entertainment<\/dd>\n<dd>Sample Entertainment<\/dd>\n<\/dl>"
+				}]
+			}, {
+				"id": "{%ID-40%}",
+				"col": 4,
+				"items": [{
+					"id": "{%ID-41%}",
+					"type": "title",
+					"cssId": "",
+					"cssClass": "",
+					"class_name": "",
+					"text": "<div style=\"text-align: center;\"><span style=\"font-weight: 400; font-size: 32px; color: #f1f1f1;\">Sample site<\/span><\/div>"
+				}, {
+					"id": "{%ID-42%}",
+					"type": "text",
+					"cssId": "",
+					"cssClass": "weluka-mgtop-m",
+					"class_name": "",
+					"text": "<p style=\"color: #f1f1f1;\">Tel. XX.XXXX.XXXX \/ Email. xxxxxxx@xxxxxxxx.com<\/p>",
+					"shadow_style": "",
+					"shadow_color": "",
+					"background_color": "",
+					"color": "",
+					"border_size": "",
+					"border_style": "",
+					"border_color": "",
+					"block_shape": "",
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": ""
+				}, {
+					"id": "{%ID-43%}",
+					"type": "sns_button",
+					"cssId": "",
+					"cssClass": "weluka-mgtop-m",
+					"class_name": "weluka-text-center",
+					"direction": "h",
+					"margin_top": "",
+					"margin_bottom": "",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": "",
+					"buttons": [{
+						"name": "facebook",
+						"url": "#",
+						"text": ""
+					}, {
+						"name": "twitter",
+						"url": "#",
+						"text": ""
+					}, {
+						"name": "youtube",
+						"url": "#",
+						"text": ""
+					}]
+				}]
+			}]
+		}],
+		"container_type": "",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "",
+		"anchor_id": "",
+		"padding_top": "70",
+		"padding_bottom": "70",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": "weluka-samplepage2-top-section"
+	}, {
+		"id": "{%ID-44%}",
+		"class_name": "",
+		"background_color": "",
+		"margin_top": "",
+		"margin_bottom": "",
+		"margin_left": "",
+		"margin_right": "",
+		"rows": [{
+			"id": "{%ID-45%}",
+			"colums": [{
+				"id": "{%ID-46%}",
+				"col": 12,
+				"margin_bottom": "0",
+				"items": [{
+					"id": "{%ID-47%}",
+					"type": "wpmenu",
+					"title": "",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-inverse",
+					"align": "",
+					"shape": "no-rounded",
+					"bold": "0",
+					"underline": "0",
+					"italic": "0",
+					"font": "",
+					"font_size": "13",
+					"v_color_theme": null,
+					"v_align": null,
+					"v_shape": "",
+					"v_bold": "0",
+					"v_underline": "0",
+					"v_italic": "0",
+					"v_font": "",
+					"v_font_size": "",
+					"ham_color_theme": null,
+					"ham_align": "",
+					"ham_shape": "",
+					"ham_size": "",
+					"ham_bold": "0",
+					"ham_underline": "0",
+					"ham_italic": "0",
+					"ham_font": "",
+					"ham_font_size": "",
+					"h_content_width_fixed": "",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"margin_left": "",
+					"margin_right": "",
+					"padding_top": "",
+					"padding_bottom": "",
+					"padding_left": "",
+					"padding_right": "",
+					"cssClass": ""
+				}]
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "",
+		"anchor_id": "",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"padding_left": "",
+		"padding_right": "",
+		"cssClass": ""
+	}],
+	"pagesetting": {
+		"seo_title": "",
+		"seo_keywords": "",
+		"seo_description": "",
+		"onepage": "1",
+		"hide_hd": "1",
+		"hide_ft": "1",
+		"hide_title": "1",
+		"hide_postmeta": "1",
+		"hd_id": "",
+		"ft_id": "",
+		"sd_main_id": "",
+		"sd_sub_id": "",
+		"hide_sd_main": "0",
+		"hide_sd_sub": "0",
+		"hide_post_tagcloud": "1",
+		"post_tagcloud_pos": "",
+		"hide_post_paging": "1",
+		"hide_breadcrumb": "1",
+		"show_sd_main": "0",
+		"show_sd_sub": "0",
+		"show_sd_main_place": "",
+		"out_container_type": "",
+		"hide_eyecatch": "-1",
+		"eyecatch_align": "",
+		"eyecatch_shape": "",
+		"eyecatch_fitwidth": "-1"
+	}
+}

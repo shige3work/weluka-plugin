@@ -1,0 +1,132 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"class_name": "",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "5",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "img",
+					"attachment_id": "",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/GBk64ksrOc.gif",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"sm_col": "5"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "text",
+					"text": "<h3>Lorem ipsum dolor sit amet, per dicant disputando ne, sed cu rebum facete.<\/h3>"
+				}, {
+					"id": "{%ID-7%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "36"
+				}, {
+					"id": "{%ID-8%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, eget odio, nec diam, justo ligula accusantium. Lectus placerat, quis suspendisse integer, dui mi. Fusce velit, mattis condimentum, elit aenean. Quam erat. Nibh duis nulla. Luctus tempor, varius integer. Et vehicula condimentum, magna justo. Sollicitudin odio. Augue adipiscing adipiscing, nunc mauris. Pede interdum. Convallis fusce vel.<\/p>",
+					"padding_top": "20",
+					"padding_md_top": "0",
+					"padding_sm_top": "0",
+					"padding_xs_top": "0"
+				}],
+				"padding_left": "40",
+				"padding_xs_left": "10",
+				"sm_col": "7"
+			}]
+		}]
+	}, {
+		"id": "{%ID-9%}",
+		"rows": [{
+			"id": "{%ID-10%}",
+			"colums": [{
+				"id": "{%ID-11%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "apphorline",
+					"line_style": "solid",
+					"line_width": "1",
+					"line_color": ""
+				}]
+			}]
+		}]
+	}, {
+		"id": "{%ID-13%}",
+		"rows": [{
+			"id": "{%ID-14%}",
+			"colums": [{
+				"id": "{%ID-15%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-16%}",
+					"type": "text",
+					"text": "<h4 style=\"text-align: center;\"><i class=\"fa fa-file-text-o\" style=\"padding-right:10px;\"><\/i>ROFILE<\/h4>"
+				}]
+			}]
+		}, {
+			"id": "{%ID-17%}",
+			"colums": [{
+				"id": "{%ID-18%}",
+				"col": "8",
+				"items": [{
+					"id": "{%ID-19%}",
+					"type": "text",
+					"text": "<div class=\"table-responsive\"><table class=\"table\">\n<tbody>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<\/tbody>\n<\/table><\/div>"
+				}],
+				"cssClass": "weluka-col-md-offset-2"
+			}]
+		}]
+	}, {
+		"id": "{%ID-20%}",
+		"rows": [{
+			"id": "{%ID-21%}",
+			"colums": [{
+				"id": "{%ID-22%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-23%}",
+					"type": "gmap",
+					"addr": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e38\u306e\u51851-9-1",
+					"map_w": "100%",
+					"map_h": "300",
+					"zoom": 16
+				}]
+			}]
+		}]
+	}]
+}

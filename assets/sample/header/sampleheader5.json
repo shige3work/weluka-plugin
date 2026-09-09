@@ -1,0 +1,106 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_color": "#3b3b3b",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "text",
+					"text": "<p class=\"weluka-spcenter\">Lorem ipsum dolor sit amet, facete molestie vel te, nam eu labitur elaboraret.<\/p>",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}],
+				"sm_col": "8"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "text",
+					"text": "<div class=\"weluka-text-right weluka-spcenter\" style=\"font-size:16px;\"><a style=\"display: inline-block; color:#fff;\" title=\"\" href=\"#\">LINK1<\/a><a style=\"display: inline-block; padding-left: 20px; color:#fff;\" title=\"\" href=\"#\">LINK2<\/a><a style=\"display: inline-block; padding-left: 20px; color:#fff;\" title=\"\" href=\"#\">LINK3<\/a><\/div>",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}],
+				"sm_col": "4"
+			}]
+		}],
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#ffffff",
+		"padding_top": "5",
+		"padding_bottom": "5",
+		"bg_type": "image"
+	}, {
+		"id": "{%ID-7%}",
+		"background_color": "#f7f7f7",
+		"rows": [{
+			"id": "{%ID-8%}",
+			"colums": [{
+				"id": "{%ID-9%}",
+				"col": 6,
+				"items": [{
+					"id": "{%ID-10%}",
+					"type": "title",
+					"text": "<h1 class=\"weluka-spcenter\"><a href=\"#\" style=\"font-size: 46px; color:#424242;\">SITE TITLE<\/a><\/h1>",
+					"padding_top": "15"
+				}],
+				"sm_col": "5"
+			}, {
+				"id": "{%ID-11%}",
+				"col": 6,
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "text",
+					"cssClass": "weluka-samplepage6-hdright",
+					"text": "<p class=\"weluka-spcenter\">[weluka-phone no=\"03XXXXXXXX\" disp=\"03-XXXX-XXXX\" i=true style=\"font-size:30px;color:#424242;text-align:right;\" tag=\"p\"]<\/p>\n<div class=\"weluka-spcenter\" style=\"text-align: right;\"><span style=\"font-size: 16px;\">Eam ei errem lobortis atomorum.<\/span><\/div>"
+				}],
+				"sm_col": "7"
+			}]
+		}],
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "10",
+		"bg_type": "image"
+	}, {
+		"id": "{%ID-13%}",
+		"rows": [{
+			"id": "{%ID-14%}",
+			"colums": [{
+				"id": "{%ID-15%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-16%}",
+					"type": "wpmenu",
+					"title": "<a href=\"#\"><i class=\"fa fa-home\"><\/i><\/a>",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-red",
+					"shape": "no-rounded",
+					"font_size": "18",
+					"h_content_width_fixed": "1",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"custom_base_color": "#c40000",
+					"hide_border": "1"
+				}]
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_color": "#ffffff",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "wpmenu",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-white",
+					"align": "navbar-center",
+					"shape": "no-rounded",
+					"font_size": "16",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}]
+			}]
+		}, {
+			"id": "{%ID-5%}",
+			"colums": [{
+				"id": "{%ID-6%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-7%}",
+					"type": "title",
+					"text": "<h1 style=\"text-align: center;\"><a href=\"#\" title=\"\" style=\"font-weight: 400;font-size: 52px; color: #555;\">Site <span style=\"color: #a5c9da;\">t<\/span>itle<\/a><\/h1>"
+				}, {
+					"id": "{%ID-8%}",
+					"type": "text",
+					"text": "<p style=\"text-align: center;\">Lorem ipsum dolor sit amet, facete molestie vel te,<br \/>nam eu labitur elaboraret.<\/p>",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}]
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "20",
+		"cssClass": "weluka-box-btm-shadow",
+		"bg_type": "image"
+	}]
+}

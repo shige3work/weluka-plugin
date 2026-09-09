@@ -1,0 +1,121 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "wpmenu",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-none",
+					"shape": "no-rounded",
+					"hide_border": "1",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}],
+				"margin_bottom": "0"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"cssClass": "weluka-box-top-shadow"
+	}, {
+		"id": "{%ID-5%}",
+		"rows": [{
+			"id": "{%ID-6%}",
+			"colums": [{
+				"id": "{%ID-7%}",
+				"col": "5",
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "text",
+					"text": "<ul class=\"weluka-text-right weluka-spcenter list-inline\" style=\"font-size:24px;\">\n<li><a href=\"https:\/\/ja-jp.facebook.com\/\" target=\"_blank\" style=\"color:#a5c9da;\"><span class=\"fa fa-facebook\" aria-hidden=\"true\"><\/span><\/a><\/li>\n<li><a href=\"https:\/\/www.instagram.com\/\" target=\"_blank\" style=\"color:#a5c9da;\"><span class=\"fa fa-instagram\" aria-hidden=\"true\"><\/span><\/a><\/li>\n<\/ul>"
+				}],
+				"margin_bottom": "0",
+				"cssClass": "weluka-col-md-push-7 weluka-col-sm-push-7",
+				"sm_col": "5"
+			}, {
+				"id": "{%ID-9%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-10%}",
+					"subrows": [{
+						"id": "{%ID-11%}",
+						"subcolums": [{
+							"id": "{%ID-12%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-13%}",
+								"type": "img",
+								"class_name": "weluka-text-left",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/oGLr58S4kO.png",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"xs_align": "weluka-xstext-center"
+							}],
+							"margin_bottom": "0"
+						}, {
+							"id": "{%ID-14%}",
+							"col": "8",
+							"subitems": [{
+								"id": "{%ID-15%}",
+								"type": "text",
+								"text": "<div class=\"weluka-spcenter\">\u00a9 2017 weluka sample footer.<\/div>",
+								"padding_top": "14",
+								"padding_sm_top": "0",
+								"padding_xs_top": "0"
+							}],
+							"margin_bottom": "0"
+						}]
+					}]
+				}],
+				"margin_bottom": "0",
+				"cssClass": "weluka-col-md-pull-5 weluka-col-sm-pull-5",
+				"sm_col": "7"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "20",
+		"padding_bottom": "20",
+		"padding_sm_top": "0",
+		"padding_xs_top": "0"
+	}]
+}

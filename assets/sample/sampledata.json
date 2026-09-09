@@ -1,0 +1,212 @@
+{
+    "category": [
+      { "displayName": "Sample Page", "keyName": "singlepage" },
+      { "displayName": "Page Layout", "keyName": "pagelayout" },
+      { "displayName": "Header", "keyName": "header" },
+      { "displayName": "Footer", "keyName": "footer" }
+    ],
+    "singlepage": [
+      {
+      	"layoutName": "samplepage1",
+        "displayName": "Sample Page1",
+        "thumbnail": "samplepage1_thumb.jpg",
+        "jsonFile": "samplepage1.json",
+        "idCnt": "51"
+      }, {
+      	"layoutName": "samplepage2",
+        "displayName": "Sample Page2",
+        "thumbnail": "samplepage2_thumb.jpg",
+        "jsonFile": "samplepage2.json",
+        "idCnt": "78"
+      }, {
+      	"layoutName": "samplepage3",
+        "displayName": "Sample Page3",
+        "thumbnail": "samplepage3_thumb.jpg",
+        "jsonFile": "samplepage3.json",
+        "idCnt": "47"
+      }, {
+      	"layoutName": "samplepage4",
+        "displayName": "Sample Page4",
+        "thumbnail": "samplepage4_thumb.jpg",
+        "jsonFile": "samplepage4.json",
+        "idCnt": "108"
+      }, {
+      	"layoutName": "samplepage5",
+        "displayName": "Sample Page5",
+        "thumbnail": "samplepage5_thumb.jpg",
+        "jsonFile": "samplepage5.json",
+        "idCnt": "107"
+      }, {
+      	"layoutName": "samplepage6",
+        "displayName": "Sample Page6",
+        "thumbnail": "samplepage6_thumb.jpg",
+        "jsonFile": "samplepage6.json",
+        "idCnt": "63"
+      }, {
+      	"layoutName": "samplepage7",
+        "displayName": "Sample Page7",
+        "thumbnail": "samplepage7_thumb.jpg",
+        "jsonFile": "samplepage7.json",
+        "idCnt": "89"
+      }, {
+      	"layoutName": "samplepage8",
+        "displayName": "Sample Page8",
+        "thumbnail": "samplepage8_thumb.jpg",
+        "jsonFile": "samplepage8.json",
+        "idCnt": "78"
+      }, {
+      	"layoutName": "samplepage9",
+        "displayName": "Sample Page9",
+        "thumbnail": "samplepage9_thumb.jpg",
+        "jsonFile": "samplepage9.json",
+        "idCnt": "21"
+      }, {
+      	"layoutName": "samplepage10",
+        "displayName": "Sample Page10",
+        "thumbnail": "samplepage10_thumb.jpg",
+        "jsonFile": "samplepage10.json",
+        "idCnt": "27"
+      }, {
+      	"layoutName": "samplepage11",
+        "displayName": "Sample Page11",
+        "thumbnail": "samplepage11_thumb.jpg",
+        "jsonFile": "samplepage11.json",
+        "idCnt": "48"
+      }, {
+      	"layoutName": "samplepage12",
+        "displayName": "Sample Page12",
+        "thumbnail": "samplepage12_thumb.jpg",
+        "jsonFile": "samplepage12.json",
+        "idCnt": "82"
+      }, {
+      	"layoutName": "samplepage13",
+        "displayName": "Sample Page13",
+        "thumbnail": "samplepage13_thumb.jpg",
+        "jsonFile": "samplepage13.json",
+        "idCnt": "78"
+      }, {
+      	"layoutName": "samplepage14",
+        "displayName": "Sample Page14",
+        "thumbnail": "samplepage14_thumb.jpg",
+        "jsonFile": "samplepage14.json",
+        "idCnt": "128"
+      }
+    ],
+    "pagelayout": [
+      {
+        "layoutName": "samplelayout1",
+        "displayName": "About1",
+        "thumbnail": "samplelayout1_thumb.jpg",
+        "jsonFile": "samplelayout1.json",
+        "idCnt": "22"
+      }, {
+        "layoutName": "samplelayout2",
+        "displayName": "About2",
+        "thumbnail": "samplelayout2_thumb.jpg",
+        "jsonFile": "samplelayout2.json",
+        "idCnt": "32"
+      }, {
+        "layoutName": "samplelayout3",
+        "displayName": "About3",
+        "thumbnail": "samplelayout3_thumb.jpg",
+        "jsonFile": "samplelayout3.json",
+        "idCnt": "44"
+      }, {
+        "layoutName": "samplelayout4",
+        "displayName": "Service1",
+        "thumbnail": "samplelayout4_thumb.jpg",
+        "jsonFile": "samplelayout4.json",
+        "idCnt": "43"
+      }, {
+        "layoutName": "samplelayout5",
+        "displayName": "Service2",
+        "thumbnail": "samplelayout5_thumb.jpg",
+        "jsonFile": "samplelayout5.json",
+        "idCnt": "40"
+      }, {
+        "layoutName": "samplelayout6",
+        "displayName": "Service3",
+        "thumbnail": "samplelayout6_thumb.jpg",
+        "jsonFile": "samplelayout6.json",
+        "idCnt": "34"
+      }
+    ],
+    "header": [
+      {
+        "layoutName": "sampleheader1",
+        "displayName": "Header1",
+        "thumbnail": "sampleheader1_thumb.jpg",
+        "jsonFile": "sampleheader1.json",
+        "idCnt": "10"
+      }, {
+        "layoutName": "sampleheader2",
+        "displayName": "Header2",
+        "thumbnail": "sampleheader2_thumb.jpg",
+        "jsonFile": "sampleheader2.json",
+        "idCnt": "8"
+      }, {
+        "layoutName": "sampleheader3",
+        "displayName": "Header3",
+        "thumbnail": "sampleheader3_thumb.jpg",
+        "jsonFile": "sampleheader3.json",
+        "idCnt": "16"
+      }, {
+        "layoutName": "sampleheader4",
+        "displayName": "Header4",
+        "thumbnail": "sampleheader4_thumb.jpg",
+        "jsonFile": "sampleheader4.json",
+        "idCnt": "23"
+      }, {
+        "layoutName": "sampleheader5",
+        "displayName": "Header5",
+        "thumbnail": "sampleheader5_thumb.jpg",
+        "jsonFile": "sampleheader5.json",
+        "idCnt": "16"
+      }, {
+        "layoutName": "sampleheader6",
+        "displayName": "Header6",
+        "thumbnail": "sampleheader6_thumb.jpg",
+        "jsonFile": "sampleheader6.json",
+        "idCnt": "8"
+      }
+    ],
+    "footer": [
+      {
+        "layoutName": "samplefooter1",
+        "displayName": "Footer1",
+        "thumbnail": "samplefooter1_thumb.jpg",
+        "jsonFile": "samplefooter1.json",
+        "idCnt": "10"
+      }, {
+        "layoutName": "samplefooter2",
+        "displayName": "Footer2",
+        "thumbnail": "samplefooter2_thumb.jpg",
+        "jsonFile": "samplefooter2.json",
+        "idCnt": "16"
+      }, {
+        "layoutName": "samplefooter3",
+        "displayName": "Footer3",
+        "thumbnail": "samplefooter3_thumb.jpg",
+        "jsonFile": "samplefooter3.json",
+        "idCnt": "30"
+      }, {
+        "layoutName": "samplefooter4",
+        "displayName": "Footer4",
+        "thumbnail": "samplefooter4_thumb.jpg",
+        "jsonFile": "samplefooter4.json",
+        "idCnt": "23"
+      }, {
+        "layoutName": "samplefooter5",
+        "displayName": "Footer5",
+        "thumbnail": "samplefooter5_thumb.jpg",
+        "jsonFile": "samplefooter5.json",
+        "idCnt": "56"
+      }, {
+        "layoutName": "samplefooter6",
+        "displayName": "Footer6",
+        "thumbnail": "samplefooter6_thumb.jpg",
+        "jsonFile": "samplefooter6.json",
+        "idCnt": "15"
+      }
+    ]
+}

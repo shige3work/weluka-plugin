@@ -1,0 +1,2403 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_color": "#ff97b6",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "10",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "title2",
+					"text": "Lorem ipsum dolor sit amet, ex per quidam animal ancillae, adhuc epicuri eleifend per et, atqui oblique deseruisse mei an.",
+					"title_html_tag": "h1",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"icon_type": "",
+					"icon": {
+						"icon_md_size": "",
+						"icon_sm_size": "",
+						"icon_xs_size": ""
+					},
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"title_font_size": "13.6",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"padding_top": "18",
+					"animation_delay": "0.0",
+					"padding_sm_top": "10",
+					"padding_xs_top": "5"
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"animation_delay": "0.0",
+				"sm_col": "9",
+				"xs_col": "9"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "2",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "wpmenu",
+					"term_id": "",
+					"menu_layout": "hamburger",
+					"color_theme": null,
+					"bold": "0",
+					"underline": "0",
+					"italic": "0",
+					"v_color_theme": null,
+					"v_align": null,
+					"v_bold": "0",
+					"v_underline": "0",
+					"v_italic": "0",
+					"ham_color_theme": "weluka-navbar-orange",
+					"ham_align": "navbar-right",
+					"ham_shape": "no-rounded",
+					"ham_size": "weluka-medium",
+					"ham_bold": "0",
+					"ham_underline": "0",
+					"ham_italic": "0",
+					"desc_align": null,
+					"desc_bold": "0",
+					"desc_underline": "0",
+					"desc_italic": "0",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"animation_delay": "0.0"
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_xs_right": "0",
+				"animation_delay": "0.0",
+				"sm_col": "3",
+				"xs_col": "3"
+			}]
+		}],
+		"container_type": "",
+		"bg_type": "image",
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#ffffff",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"animation_delay": "0.0"
+	}, {
+		"id": "{%ID-7%}",
+		"background_image": "//cldup.com/mkukaBtxoV.jpg",
+		"rows": [{
+			"id": "{%ID-8%}",
+			"colums": [{
+				"id": "{%ID-9%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-10%}",
+					"type": "title2",
+					"text": "weluka sample",
+					"title_html_tag": "h2",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"icon_type": "",
+					"icon": {
+						"icon_md_size": "",
+						"icon_sm_size": "",
+						"icon_xs_size": ""
+					},
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"title_font_size": "60",
+					"title_color": "#ff97b6",
+					"shadow_style": "basic",
+					"shadow_color": "#ffffff",
+					"title_xs_font_size": "32",
+					"animation_delay": "0.0"
+				}]
+			}]
+		}, {
+			"id": "{%ID-11%}",
+			"colums": [{
+				"id": "{%ID-12%}",
+				"col": "9",
+				"items": [{
+					"id": "{%ID-13%}",
+					"type": "title2",
+					"text": "About site description.<br \/>Duo ut mandamus reprehendunt,<br \/>id blandit mandamus dignissim quo.",
+					"title_html_tag": "h3",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"icon_type": "",
+					"icon": {
+						"icon_md_size": "",
+						"icon_sm_size": "",
+						"icon_xs_size": ""
+					},
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"title_font_size": "28",
+					"title_color": "#2b2b2b",
+					"shadow_style": "basic",
+					"shadow_color": "#ffffff",
+					"title_xs_font_size": "18",
+					"padding_top": "20",
+					"animation_delay": "0.0"
+				}],
+				"animation_delay": "0.0",
+				"sm_col": "none",
+				"xs_col": "none"
+			}]
+		}],
+		"container_type": "",
+		"container_height": "",
+		"container_valign": "",
+		"bg_type": "image",
+		"attachment_id": "",
+		"full": {
+			"url": "",
+			"width": "",
+			"height": ""
+		},
+		"bgsize_type": "cover",
+		"bgpos": "100% 50%",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "scroll",
+		"padding_top": "70",
+		"padding_bottom": "70",
+		"animation_delay": "0.0",
+		"padding_xs_top": "30",
+		"padding_xs_bottom": "30"
+	}, {
+		"id": "{%ID-14%}",
+		"rows": [{
+			"id": "{%ID-15%}",
+			"colums": [{
+				"id": "{%ID-16%}",
+				"col": "9",
+				"items": [{
+					"id": "{%ID-17%}",
+					"subrows": [{
+						"id": "{%ID-18%}",
+						"subcolums": [{
+							"id": "{%ID-19%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-20%}",
+								"type": "text",
+								"text": "<div>Lorem ipsum dolor sit amet, ex per quidam animal ancillae, adhuc epicuri eleifend per et, atqui oblique deseruisse mei an. Qui oratio quaeque an, sit no doctus veritus, malorum ceteros apeirian id sea. Nam no adhuc conclusionemque. Aliquip omittam erroribus mei an, sea timeam facilis in. Cibo iusto dolor ex pri, justo omittam vel ad. Vim at ancillae invidunt, nostrud ornatus meliore mea ut.Cu eirmod iudicabit inciderint mel.<\/div>"
+							}],
+							"background_color": "#f7f7f7",
+							"border_size": "1",
+							"border_style": "solid",
+							"border_color": "#fcbfc3",
+							"block_shape": "img-rounded",
+							"block_inwrap": "on",
+							"padding_left": "0",
+							"padding_right": "0",
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-21%}",
+						"subcolums": [{
+							"id": "{%ID-22%}",
+							"col": "6",
+							"subitems": [{
+								"id": "{%ID-23%}",
+								"type": "title2",
+								"text": "SAMPLE BLOCK TITLE",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-center",
+								"title_font_size": "18",
+								"title_color": "#ffffff",
+								"title_bg_color": "#fcbfc3",
+								"title_shape": "img-rounded",
+								"title_radius_size": "80",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-24%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "img-circle",
+								"title": "web_soup-1006694_1920",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/KgKVbRJ2GO.jpg",
+								"link": {
+									"action": "zoom",
+									"href": "//cldup.com/KgKVbRJ2GO.jpg",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"padding_top": "15",
+								"padding_bottom": "15",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-25%}",
+								"type": "text",
+								"text": "<p>No nam atqui quaestio. Mea ex liber timeam, elit putent eam an, eum nostrum mentitum laboramus no. Sea nihil nonumy at. No qui minim delicatissimi, no dictas assueverit cum, pri alii argumentum no. Eu partem legendos ius, ea nam civibus dolores oportere. Duo nominavi convenire et, nec aliquam apeirian ut, id sit nonumy definiebas.<\/p>"
+							}, {
+								"id": "{%ID-26%}",
+								"type": "button",
+								"text": "more",
+								"class_name": "weluka-text-right",
+								"button_color": "weluka-btn-default",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"padding_inwrap_left": "30",
+								"padding_inwrap_right": "30",
+								"padding_top": "15",
+								"animation_delay": "0.0"
+							}],
+							"border_size": "1",
+							"border_style": "solid",
+							"border_color": "#fcbfc3",
+							"block_shape": "img-rounded",
+							"block_inwrap": "on",
+							"padding_left": "0",
+							"animation_delay": "0.0",
+							"padding_sm_right": "0",
+							"padding_xs_right": "0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-27%}",
+							"col": "6",
+							"subitems": [{
+								"id": "{%ID-28%}",
+								"type": "title2",
+								"text": "SAMPLE BLOCK TITLE",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-center",
+								"title_font_size": "18",
+								"title_color": "#ffffff",
+								"title_bg_color": "#fcbfc3",
+								"title_shape": "img-rounded",
+								"title_radius_size": "80",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-29%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "img-circle",
+								"title": "web_vitamin-b-871135_1920",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/-X-9bxDFVE.jpg",
+								"link": {
+									"action": "zoom",
+									"href": "//cldup.com/-X-9bxDFVE.jpg",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"padding_top": "15",
+								"padding_bottom": "15",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-30%}",
+								"type": "text",
+								"text": "<p>No nam atqui quaestio. Mea ex liber timeam, elit putent eam an, eum nostrum mentitum laboramus no. Sea nihil nonumy at. No qui minim delicatissimi, no dictas assueverit cum, pri alii argumentum no. Eu partem legendos ius, ea nam civibus dolores oportere. Duo nominavi convenire et, nec aliquam apeirian ut, id sit nonumy definiebas.<\/p>"
+							}, {
+								"id": "{%ID-31%}",
+								"type": "button",
+								"text": "more",
+								"class_name": "weluka-text-right",
+								"button_color": "weluka-btn-default",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"padding_inwrap_left": "30",
+								"padding_inwrap_right": "30",
+								"padding_top": "15",
+								"animation_delay": "0.0"
+							}],
+							"border_size": "1",
+							"border_style": "solid",
+							"border_color": "#fcbfc3",
+							"block_shape": "img-rounded",
+							"block_inwrap": "on",
+							"padding_right": "0",
+							"animation_delay": "0.0",
+							"padding_sm_left": "0",
+							"padding_xs_left": "0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"margin_top": "20",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-32%}",
+						"subcolums": [{
+							"id": "{%ID-33%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-34%}",
+								"type": "title2",
+								"text": "SAMPLE RECOMMEND RANKING",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-center",
+								"title_color": "#ffffff",
+								"title_bg_color": "rgba(176,22,161,0.96)",
+								"style_type": "weluka-ribbon",
+								"select_style": {
+									"ribbon_color": "#ffacf7"
+								},
+								"animation_delay": "0.0"
+							}]
+						}],
+						"margin_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-35%}",
+						"subcolums": [{
+							"id": "{%ID-36%}",
+							"col": "2",
+							"subitems": [{
+								"id": "{%ID-37%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "gold-medal",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/cuNyoMdGBC.png",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "2",
+							"xs_col": "2"
+						}, {
+							"id": "{%ID-38%}",
+							"col": "10",
+							"subitems": [{
+								"id": "{%ID-39%}",
+								"type": "title2",
+								"text": "SAMPLE PRODUCT ITEM NAME",
+								"title_html_tag": "h2",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-left",
+								"title_color": "#2b2b2b",
+								"title_radius_size": "80",
+								"title_sm_font_size": "24",
+								"title_xs_font_size": "20",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-40%}",
+								"type": "text",
+								"text": "<div class=\"weluka-rating clearfix\">\n<div class=\"weluka-stars-rating pull-left\">\n  <div class=\"weluka-back-stars-rating\">\n    <i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i>\n    <div class=\"weluka-front-stars-rating\" style=\"width:90%;\">\n      <i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i>\n    <\/div>\n  <\/div>\n<\/div>\n<div class=\"weluka-rating-point pull-left\">4.65 rating<\/div>\n<\/div>"
+							}, {
+								"id": "{%ID-41%}",
+								"type": "title2",
+								"text": "Cu eirmod iudicabit inciderint mel. Per magna admodum in, duo no bonorum meliore.",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_sm_font_size": "16",
+								"title_xs_font_size": "14",
+								"margin_top": "20",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "10",
+							"xs_col": "10"
+						}],
+						"margin_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-42%}",
+						"subcolums": [{
+							"id": "{%ID-43%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-44%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "no-rounded",
+								"title": "web_vitamin-b-871135_1920_sample",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/TE1CeaHvZO.jpg",
+								"link": {
+									"action": "zoom",
+									"href": "//cldup.com/TE1CeaHvZO.jpg",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-45%}",
+							"col": "8",
+							"subitems": [{
+								"id": "{%ID-46%}",
+								"type": "title2",
+								"text": "No nam atqui quaestio. Mea ex liber timeam",
+								"title_html_tag": "p",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-center",
+								"title_color": "#ffffff",
+								"title_bg_color": "#03c7ae",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-47%}",
+								"type": "text",
+								"text": "<div class=\"table-responsive\">\n<table class=\"table table-bordered table-condensed table-striped\">\n<tbody>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-48%}",
+						"subcolums": [{
+							"id": "{%ID-49%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-50%}",
+								"type": "button",
+								"text": "ITEM DETAIL",
+								"class_name": "weluka-text-center",
+								"button_color": "weluka-btn-danger",
+								"size": "btn-lg",
+								"block": "on",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"cssClass": "weluka-col-md-offset-2",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-51%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-52%}",
+								"type": "button",
+								"text": "OFFICIAL SITE",
+								"class_name": "weluka-text-center",
+								"button_color": "weluka-btn-success",
+								"size": "btn-lg",
+								"block": "on",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-53%}",
+						"subcolums": [{
+							"id": "{%ID-54%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-55%}",
+								"type": "apphorline",
+								"line_style": "solid",
+								"line_width": "2",
+								"line_color": "#c9bc8c",
+								"animation_delay": "0.0"
+							}]
+						}],
+						"margin_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-56%}",
+						"subcolums": [{
+							"id": "{%ID-57%}",
+							"col": "2",
+							"subitems": [{
+								"id": "{%ID-58%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "silver-medal",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/b4FZQmAYR1.png",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "2",
+							"xs_col": "2"
+						}, {
+							"id": "{%ID-59%}",
+							"col": "10",
+							"subitems": [{
+								"id": "{%ID-60%}",
+								"type": "title2",
+								"text": "SAMPLE PRODUCT ITEM NAME",
+								"title_html_tag": "h2",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-left",
+								"title_color": "#2b2b2b",
+								"title_radius_size": "80",
+								"title_sm_font_size": "24",
+								"title_xs_font_size": "20",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-61%}",
+								"type": "text",
+								"text": "<div class=\"weluka-rating clearfix\">\n<div class=\"weluka-stars-rating pull-left\">\n  <div class=\"weluka-back-stars-rating\">\n    <i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i>\n    <div class=\"weluka-front-stars-rating\" style=\"width:80%;\">\n      <i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i>\n    <\/div>\n  <\/div>\n<\/div>\n<div class=\"weluka-rating-point pull-left\">4.12 rating<\/div>\n<\/div>"
+							}, {
+								"id": "{%ID-62%}",
+								"type": "title2",
+								"text": "Cu eirmod iudicabit inciderint mel. Per magna admodum in, duo no bonorum meliore.",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_sm_font_size": "16",
+								"title_xs_font_size": "14",
+								"margin_top": "20",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "10",
+							"xs_col": "10"
+						}],
+						"margin_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-63%}",
+						"subcolums": [{
+							"id": "{%ID-64%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-65%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "no-rounded",
+								"title": "web_vitamin-b-871135_1920_sample",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/TE1CeaHvZO.jpg",
+								"link": {
+									"action": "zoom",
+									"href": "//cldup.com/TE1CeaHvZO.jpg",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-66%}",
+							"col": "8",
+							"subitems": [{
+								"id": "{%ID-67%}",
+								"type": "title2",
+								"text": "No nam atqui quaestio. Mea ex liber timeam",
+								"title_html_tag": "p",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-center",
+								"title_color": "#ffffff",
+								"title_bg_color": "#03c7ae",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-68%}",
+								"type": "text",
+								"text": "<div class=\"table-responsive\">\n<table class=\"table table-bordered table-condensed table-striped\">\n<tbody>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-69%}",
+						"subcolums": [{
+							"id": "{%ID-70%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-71%}",
+								"type": "button",
+								"text": "ITEM DETAIL",
+								"class_name": "weluka-text-center",
+								"button_color": "weluka-btn-danger",
+								"size": "btn-lg",
+								"block": "on",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"cssClass": "weluka-col-md-offset-2",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-72%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-73%}",
+								"type": "button",
+								"text": "OFFICIAL SITE",
+								"class_name": "weluka-text-center",
+								"button_color": "weluka-btn-success",
+								"size": "btn-lg",
+								"block": "on",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-74%}",
+						"subcolums": [{
+							"id": "{%ID-75%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-76%}",
+								"type": "apphorline",
+								"line_style": "solid",
+								"line_width": "2",
+								"line_color": "#c9bc8c",
+								"animation_delay": "0.0"
+							}]
+						}],
+						"margin_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-77%}",
+						"subcolums": [{
+							"id": "{%ID-78%}",
+							"col": "2",
+							"subitems": [{
+								"id": "{%ID-79%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "bronze-medal",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/KpC0tVom2s.png",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "2",
+							"xs_col": "2"
+						}, {
+							"id": "{%ID-79%}",
+							"col": "10",
+							"subitems": [{
+								"id": "{%ID-80%}",
+								"type": "title2",
+								"text": "SAMPLE PRODUCT ITEM NAME",
+								"title_html_tag": "h2",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-left",
+								"title_color": "#2b2b2b",
+								"title_radius_size": "80",
+								"title_sm_font_size": "24",
+								"title_xs_font_size": "20",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-81%}",
+								"type": "text",
+								"text": "<div class=\"weluka-rating clearfix\">\n<div class=\"weluka-stars-rating pull-left\">\n  <div class=\"weluka-back-stars-rating\">\n    <i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i>\n    <div class=\"weluka-front-stars-rating\" style=\"width:72%;\">\n      <i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i><i class=\"fa fa-star\" aria-hidden=\"true\"><\/i>\n    <\/div>\n  <\/div>\n<\/div>\n<div class=\"weluka-rating-point pull-left\">3.78 rating<\/div>\n<\/div>"
+							}, {
+								"id": "{%ID-82%}",
+								"type": "title2",
+								"text": "Cu eirmod iudicabit inciderint mel. Per magna admodum in, duo no bonorum meliore.",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_sm_font_size": "16",
+								"title_xs_font_size": "14",
+								"margin_top": "20",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "10",
+							"xs_col": "10"
+						}],
+						"margin_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-83%}",
+						"subcolums": [{
+							"id": "{%ID-84%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-85%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "no-rounded",
+								"title": "web_vitamin-b-871135_1920_sample",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/TE1CeaHvZO.jpg",
+								"link": {
+									"action": "zoom",
+									"href": "//cldup.com/TE1CeaHvZO.jpg",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-86%}",
+							"col": "8",
+							"subitems": [{
+								"id": "{%ID-87%}",
+								"type": "title2",
+								"text": "No nam atqui quaestio. Mea ex liber timeam",
+								"title_html_tag": "p",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": "weluka-text-center",
+								"title_color": "#ffffff",
+								"title_bg_color": "#03c7ae",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-88%}",
+								"type": "text",
+								"text": "<div class=\"table-responsive\">\n<table class=\"table table-bordered table-condensed table-striped\">\n<tbody>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<tr><th>Header Text<\/th><td>Table date content<\/td><\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"margin_top": "10",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-89%}",
+						"subcolums": [{
+							"id": "{%ID-90%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-91%}",
+								"type": "button",
+								"text": "ITEM DETAIL",
+								"class_name": "weluka-text-center",
+								"button_color": "weluka-btn-danger",
+								"size": "btn-lg",
+								"block": "on",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"cssClass": "weluka-col-md-offset-2",
+							"sm_col": "none",
+							"xs_col": "none"
+						}, {
+							"id": "{%ID-92%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-93%}",
+								"type": "button",
+								"text": "OFFICIAL SITE",
+								"class_name": "weluka-text-center",
+								"button_color": "weluka-btn-success",
+								"size": "btn-lg",
+								"block": "on",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "20",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}]
+				}],
+				"animation_delay": "0.0",
+				"sm_col": "8",
+				"xs_col": "none"
+			}, {
+				"id": "{%ID-94%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-95%}",
+					"subrows": [{
+						"id": "{%ID-96%}",
+						"subcolums": [{
+							"id": "{%ID-97%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-98%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "adssample1",
+								"margin_top": "0",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/haozapzzEn.gif",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}]
+						}],
+						"margin_xs_top": "36",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-99%}",
+						"subcolums": [{
+							"id": "{%ID-100%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-101%}",
+								"type": "wpsearch",
+								"animation_delay": "0.0"
+							}]
+						}]
+					}, {
+						"id": "{%ID-102%}",
+						"subcolums": [{
+							"id": "{%ID-103%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-104%}",
+								"type": "wpmenu",
+								"term_id": "",
+								"menu_layout": "vertical",
+								"color_theme": null,
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"v_color_theme": "weluka-navbar-white",
+								"v_align": null,
+								"v_shape": "no-rounded",
+								"v_bold": "0",
+								"v_underline": "0",
+								"v_italic": "0",
+								"v_font_size": "16",
+								"ham_color_theme": null,
+								"ham_bold": "0",
+								"ham_underline": "0",
+								"ham_italic": "0",
+								"desc_align": null,
+								"desc_bold": "0",
+								"desc_underline": "0",
+								"desc_italic": "0",
+								"margin_top": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-105%}",
+						"subcolums": [{
+							"id": "{%ID-106%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-107%}",
+								"type": "title2",
+								"text": "WAHT'S NEW",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_color": "#2b2b2b",
+								"style_type": "weluka-btm-border",
+								"select_style": {
+									"border_width": "2",
+									"border_style": "solid",
+									"border_color": "#fcbfc3"
+								},
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-108%}",
+								"type": "applist",
+								"layout_class": "medialeft",
+								"media_display": "",
+								"title_display": "1",
+								"meta1_display": "1",
+								"meta2_display": "",
+								"content_display": "",
+								"button_display": "",
+								"row_column": "1",
+								"media_col": "1",
+								"media_align": "weluka-text-left",
+								"media_shape": "img-rounded",
+								"title_html_tag": "p",
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_font_size": "16",
+								"meta1_bold": "0",
+								"meta1_underline": "0",
+								"meta1_italic": "0",
+								"meta1_align": null,
+								"meta2_bold": "0",
+								"meta2_underline": "0",
+								"meta2_italic": "0",
+								"meta2_align": null,
+								"content_align": null,
+								"button_align": null,
+								"button_color": "weluka-btn-info",
+								"list_eqh": "0",
+								"animation_delay": "0.0",
+								"datas": [{
+									"media": {
+										"type": "icon",
+										"icon_class": "fa-caret-right",
+										"icon_color": "#666666",
+										"icon_size": "32",
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										}
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet,  adhuc epicuri eleifend per et, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "icon",
+										"icon_class": "fa-caret-right",
+										"icon_color": "#fcbfc3",
+										"icon_size": "16",
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										}
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet,  adhuc epicuri eleifend per et, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "icon",
+										"icon_class": "fa-caret-right",
+										"icon_color": "#fcbfc3",
+										"icon_size": "16",
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										}
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet,  adhuc epicuri eleifend per et, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "icon",
+										"icon_class": "fa-caret-right",
+										"icon_color": "#fcbfc3",
+										"icon_size": "16",
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										}
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet,  adhuc epicuri eleifend per et, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "icon",
+										"icon_class": "fa-caret-right",
+										"icon_color": "#fcbfc3",
+										"icon_size": "16",
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										}
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet,  adhuc epicuri eleifend per et, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}]
+							}]
+						}],
+						"margin_top": "20",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-109%}",
+						"subcolums": [{
+							"id": "{%ID-110%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-111%}",
+								"type": "title2",
+								"text": "VIEW RANKING",
+								"title_html_tag": "h3",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_color": "#2b2b2b",
+								"style_type": "weluka-btm-border",
+								"select_style": {
+									"border_width": "2",
+									"border_style": "solid",
+									"border_color": "#03c7ae"
+								},
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-112%}",
+								"type": "applist",
+								"layout_class": "medialeft",
+								"media_display": "",
+								"title_display": "1",
+								"meta1_display": "",
+								"meta2_display": "",
+								"content_display": "",
+								"button_display": "",
+								"row_column": "1",
+								"media_col": "1",
+								"media_align": "weluka-text-left",
+								"media_shape": "img-rounded",
+								"title_html_tag": "p",
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_font_size": "16",
+								"meta1_bold": "0",
+								"meta1_underline": "0",
+								"meta1_italic": "0",
+								"meta1_align": null,
+								"meta2_bold": "0",
+								"meta2_underline": "0",
+								"meta2_italic": "0",
+								"meta2_align": null,
+								"content_align": null,
+								"button_align": null,
+								"button_color": "weluka-btn-info",
+								"list_eqh": "0",
+								"animation_delay": "0.0",
+								"datas": [{
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": "July 25, 2017"
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": ""
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": ""
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": ""
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": ""
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}, {
+									"media": {
+										"type": "img",
+										"alt": "",
+										"attachment_id": "",
+										"external": "",
+										"fitwidth": "",
+										"full": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"large": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"medium": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"thumbnail": {
+											"height": "",
+											"url": "",
+											"width": ""
+										},
+										"link": {
+											"action": "",
+											"href": "",
+											"target": ""
+										},
+										"source_type": "media",
+										"title": "",
+										"url": ""
+									},
+									"title": {
+										"text": "Lorem ipsum dolor sit amet, atqui oblique deseruisse mei an."
+									},
+									"content": {
+										"text": ""
+									},
+									"meta1": {
+										"text": ""
+									},
+									"meta2": {
+										"text": ""
+									},
+									"link": {
+										"href": "#",
+										"target": ""
+									}
+								}]
+							}]
+						}],
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-113%}",
+						"subcolums": [{
+							"id": "{%ID-114%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-115%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "adssample3",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/3sKsl-nW2s.gif",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-116%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "adssample3",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/3sKsl-nW2s.gif",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-117%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "adssample3",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/3sKsl-nW2s.gif",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-118%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"title": "adssample2",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/7TVp7I4eMa.gif",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"fitwidth": "on",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"margin_top": "30",
+						"animation_delay": "0.0"
+					}, {
+						"id": "{%ID-119%}",
+						"subcolums": [{
+							"id": "{%ID-120%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-121%}",
+								"type": "sns_share",
+								"class_name": "weluka-text-center",
+								"direction": "h",
+								"animation_delay": "0.0",
+								"buttons": [{
+									"name": "facebook",
+									"url": "#",
+									"counter": ""
+								}, {
+									"name": "twitter",
+									"url": "#",
+									"text": "sample",
+									"account": "",
+									"counter": ""
+								}]
+							}]
+						}],
+						"margin_top": "20",
+						"animation_delay": "0.0"
+					}]
+				}],
+				"padding_left": "20",
+				"animation_delay": "0.0",
+				"padding_xs_left": "10",
+				"sm_col": "4",
+				"xs_col": "none"
+			}]
+		}]
+	}, {
+		"id": "{%ID-122%}",
+		"rows": [{
+			"id": "{%ID-123%}",
+			"colums": [{
+				"id": "{%ID-124%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-125%}",
+					"type": "sns_button",
+					"class_name": "weluka-text-center",
+					"direction": "h",
+					"buttons": [{
+						"name": "facebook",
+						"url": "https:\/\/www.facebook.com\/",
+						"text": "FACEBOOK"
+					}, {
+						"name": "twitter",
+						"url": "https:\/\/x.com\/",
+						"text": "X(Twitter)"
+					}, {
+						"name": "instagram",
+						"url": "https:\/\/www.instagram.com\/",
+						"text": "INSTAGRAM"
+					}, {
+						"name": "youtube",
+						"url": "https:\/\/www.youtube.com\/",
+						"text": "YOUTUBE"
+					}],
+					"animation_delay": "0.0"
+				}]
+			}]
+		}, {
+			"id": "{%ID-126%}",
+			"colums": [{
+				"id": "{%ID-127%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-128%}",
+					"type": "title2",
+					"text": "\u00a9 2017 weluka All rights reserved.",
+					"title_html_tag": "div",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"icon_type": "",
+					"icon": {
+						"icon_md_size": "",
+						"icon_sm_size": "",
+						"icon_xs_size": ""
+					},
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": "weluka-text-center",
+					"title_font_size": "12",
+					"animation_delay": "0.0"
+				}]
+			}]
+		}],
+		"container_type": "",
+		"bg_type": "image",
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"animation_delay": "0.0"
+	}],
+	"pagesetting": {
+		"seo_title": "",
+		"seo_keywords": "",
+		"seo_description": "",
+		"onepage": 1,
+		"hide_hd": 1,
+		"hide_ft": 1,
+		"hide_title": "1",
+		"hide_sd_main": 0,
+		"hide_sd_sub": 0,
+		"show_sd_main": 0,
+		"show_sd_sub": 0,
+		"csscode": ".weluka-rating {\n   margin-top:15px;\n}\n.weluka-stars-rating {\n   display: flex;\n    font-size: 1.6em;\n}\n.weluka-back-stars-rating {\n   display: flex;\n    color: #bb5252;\n    position: relative;\n    text-shadow: 1px 1px 1px #843a3a;\n}\n.weluka-front-stars-rating {\n    display: flex;\n    color: #FFBC0B;\n    overflow: hidden;\n    position: absolute;\n    text-shadow: 1px 1px 1px #d29b09;\n    top: 0;\n}\n.weluka-rating-point{\n  font-size:1.6em;\n  padding-left:20px;\n  color:#bb5252;\n}"
+	}
+}

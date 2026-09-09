@@ -1,0 +1,243 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_image": "//cldup.com/Ktw7EQ04FX.jpg",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "text",
+					"text": "<div class=\"center-block\" style=\"background:#2b2b2b; color:#fff;text-align:center;font-size:30px;width:80px;height:80px;line-height:80px;\">1<\/div>"
+				}],
+				"cssClass": "weluka-col-md-offset-1",
+				"sm_col": "2"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "text",
+					"text": "<h2>Lorem ipsum dolor sit amet,<br \/>congue orci justo semper eros.<\/h2>"
+				}, {
+					"id": "{%ID-7%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "20"
+				}],
+				"padding_xs_top": "24",
+				"sm_col": "9"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"attachment_id": "",
+		"full": {
+			"url": "",
+			"width": "",
+			"height": ""
+		},
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#1b1b1b",
+		"padding_top": "100",
+		"padding_bottom": "100",
+		"padding_sm_top": "70",
+		"padding_sm_bottom": "70",
+		"padding_xs_top": "50",
+		"padding_xs_bottom": "50"
+	}, {
+		"id": "{%ID-8%}",
+		"rows": [{
+			"id": "{%ID-9%}",
+			"colums": [{
+				"id": "{%ID-10%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-11%}",
+					"type": "text",
+					"text": "<div class=\"center-block\" style=\"background:#2b2b2b; color:#fff;text-align:center;font-size:30px;width:80px;height:80px;line-height:80px;\">2<\/div>"
+				}],
+				"cssClass": "weluka-col-md-offset-2",
+				"sm_col": "2"
+			}, {
+				"id": "{%ID-11%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "text",
+					"text": "<h2>Lorem ipsum dolor sit amet, congue orci justo semper eros.<\/h2>"
+				}, {
+					"id": "{%ID-13%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "20"
+				}],
+				"padding_xs_top": "24",
+				"sm_col": "9"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#1b1b1b",
+		"padding_top": "100",
+		"padding_bottom": "100",
+		"padding_sm_top": "70",
+		"padding_sm_bottom": "70",
+		"padding_xs_top": "50",
+		"padding_xs_bottom": "50"
+	}, {
+		"id": "{%ID-14%}",
+		"background_image": "//cldup.com/Ktw7EQ04FX.jpg",
+		"rows": [{
+			"id": "{%ID-15%}",
+			"colums": [{
+				"id": "{%ID-16%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-17%}",
+					"type": "text",
+					"text": "<div class=\"center-block\" style=\"background:#2b2b2b; color:#fff;text-align:center;font-size:30px;width:80px;height:80px;line-height:80px;\">3<\/div>"
+				}],
+				"cssClass": "weluka-col-md-offset-7",
+				"sm_col": "2"
+			}, {
+				"id": "{%ID-18%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-19%}",
+					"type": "text",
+					"text": "<h2>Lorem ipsum dolor sit amet,<br \/>congue orci justo semper eros.<\/h2>"
+				}, {
+					"id": "{%ID-20%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "20"
+				}],
+				"padding_xs_top": "24",
+				"sm_col": "9"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"attachment_id": "",
+		"full": {
+			"url": "",
+			"width": "",
+			"height": ""
+		},
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#1b1b1b",
+		"padding_top": "100",
+		"padding_bottom": "100",
+		"padding_sm_top": "70",
+		"padding_sm_bottom": "70",
+		"padding_xs_top": "50",
+		"padding_xs_bottom": "50"
+	}, {
+		"id": "{%ID-21%}",
+		"rows": [{
+			"id": "{%ID-22%}",
+			"colums": [{
+				"id": "{%ID-23%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-24%}",
+					"type": "text",
+					"text": "<div class=\"center-block\" style=\"background:#2b2b2b; color:#fff;text-align:center;font-size:30px;width:80px;height:80px;line-height:80px;\">4<\/div>"
+				}],
+				"cssClass": "weluka-col-md-offset-2",
+				"sm_col": "2"
+			}, {
+				"id": "{%ID-25%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-26%}",
+					"type": "text",
+					"text": "<h2>Lorem ipsum dolor sit amet, congue orci justo semper eros.<\/h2>"
+				}, {
+					"id": "{%ID-27%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "20"
+				}],
+				"padding_xs_top": "24",
+				"sm_col": "9"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#1b1b1b",
+		"padding_top": "100",
+		"padding_bottom": "100",
+		"padding_sm_top": "70",
+		"padding_sm_bottom": "70",
+		"padding_xs_top": "50",
+		"padding_xs_bottom": "50"
+	}, {
+		"id": "{%ID-28%}",
+		"background_image": "//cldup.com/Ktw7EQ04FX.jpg",
+		"rows": [{
+			"id": "{%ID-29%}",
+			"colums": [{
+				"id": "{%ID-30%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-31%}",
+					"type": "text",
+					"text": "<div class=\"center-block\" style=\"background:#2b2b2b; color:#fff;text-align:center;font-size:30px;width:80px;height:80px;line-height:80px;\">5<\/div>"
+				}],
+				"cssClass": "weluka-col-md-offset-1",
+				"sm_col": "2"
+			}, {
+				"id": "{%ID-32%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-33%}",
+					"type": "text",
+					"text": "<h2>Lorem ipsum dolor sit amet,<br \/>congue orci justo semper eros.<\/h2>"
+				}, {
+					"id": "{%ID-34%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "20"
+				}],
+				"sm_col": "9"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"attachment_id": "",
+		"full": {
+			"url": "",
+			"width": "",
+			"height": ""
+		},
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#1b1b1b",
+		"padding_top": "100",
+		"padding_bottom": "100",
+		"padding_sm_top": "70",
+		"padding_sm_bottom": "70",
+		"padding_xs_top": "50",
+		"padding_xs_bottom": "50"
+	}],
+	"pagesetting": {
+		"onepage": 1,
+		"hide_title": "1"
+	}
+}

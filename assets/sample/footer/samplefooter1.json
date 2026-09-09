@@ -1,0 +1,69 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "apphorline",
+					"line_style": "solid",
+					"line_width": "1",
+					"line_color": "#d1d1d1",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_left": "0",
+				"padding_right": "0"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-5%}",
+		"rows": [{
+			"id": "{%ID-6%}",
+			"colums": [{
+				"id": "{%ID-7%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "text",
+					"text": "<ul class=\"list-inline weluka-spcenter\">\n<li><a href=\"#\" title=\"\" style=\"color:#000;\">SITE TITLE<\/a>\n<li style=\"padding-left:20px;\"><a title=\"\" href=\"#\">LINK1<\/a><\/li>\n<li><a title=\"\" href=\"#\">LINK2<\/a><\/li>\n<li><a title=\"\" href=\"#\">LINK3<\/a><\/li>\n<\/ul>"
+				}],
+				"margin_sm_bottom": "0",
+				"margin_xs_bottom": "0",
+				"sm_col": "8"
+			}, {
+				"id": "{%ID-9%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-10%}",
+					"type": "text",
+					"text": "<div class=\"weluka-text-right weluka-spcenter\">\u00a9 2017 weluka sample footer<\/div>",
+					"padding_top": "5"
+				}],
+				"margin_sm_bottom": "0",
+				"margin_xs_bottom": "0",
+				"sm_col": "4"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "5",
+		"padding_bottom": "5"
+	}]
+}

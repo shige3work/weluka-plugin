@@ -1,0 +1,363 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>"
+				}]
+			}]
+		}]
+	}, {
+		"id": "{%ID-5%}",
+		"rows": [{
+			"id": "{%ID-6%}",
+			"colums": [{
+				"id": "{%ID-7%}",
+				"col": 6,
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"medium": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"large": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"full": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}]
+			}, {
+				"id": "{%ID-9%}",
+				"col": 6,
+				"items": [{
+					"id": "{%ID-10%}",
+					"type": "title",
+					"text": "<h3>SERVICE BLOCK TITLE<\/h3>"
+				}, {
+					"id": "{%ID-11%}",
+					"type": "text",
+					"text": "<p style=\"line-height:2;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et.<\/p>"
+				}, {
+					"id": "{%ID-12%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "30"
+				}]
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-13%}",
+		"rows": [{
+			"id": "{%ID-14%}",
+			"colums": [{
+				"id": "{%ID-15%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-16%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"medium": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"large": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"full": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}],
+				"cssClass": "weluka-col-md-push-6"
+			}, {
+				"id": "{%ID-17%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-18%}",
+					"type": "title",
+					"text": "<h3>SERVICE BLOCK TITLE<\/h3>"
+				}, {
+					"id": "{%ID-19%}",
+					"type": "text",
+					"text": "<p style=\"line-height:2;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et.<\/p>"
+				}, {
+					"id": "{%ID-20%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "30"
+				}],
+				"cssClass": "weluka-col-md-pull-6"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-21%}",
+		"rows": [{
+			"id": "{%ID-22%}",
+			"colums": [{
+				"id": "{%ID-23%}",
+				"col": 6,
+				"items": [{
+					"id": "{%ID-24%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"medium": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"large": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"full": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}]
+			}, {
+				"id": "{%ID-25%}",
+				"col": 6,
+				"items": [{
+					"id": "{%ID-26%}",
+					"type": "title",
+					"text": "<h3>SERVICE BLOCK TITLE<\/h3>"
+				}, {
+					"id": "{%ID-27%}",
+					"type": "text",
+					"text": "<p style=\"line-height:2;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et.<\/p>"
+				}, {
+					"id": "{%ID-28%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "30"
+				}]
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-29%}",
+		"rows": [{
+			"id": "{%ID-30%}",
+			"colums": [{
+				"id": "{%ID-31%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-32%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"medium": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"large": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"full": {
+						"width": "",
+						"height": "",
+						"url": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}],
+				"cssClass": "weluka-col-md-push-6"
+			}, {
+				"id": "{%ID-33%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-33%}",
+					"type": "title",
+					"text": "<h3>SERVICE BLOCK TITLE<\/h3>"
+				}, {
+					"id": "{%ID-34%}",
+					"type": "text",
+					"text": "<p style=\"line-height:2;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et.<\/p>"
+				}, {
+					"id": "{%ID-35%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "30"
+				}],
+				"cssClass": "weluka-col-md-pull-6"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed"
+	}, {
+		"id": "{%ID-36%}",
+		"rows": [{
+			"id": "{%ID-37%}",
+			"colums": [{
+				"id": "{%ID-38%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-39%}",
+					"type": "text",
+					"text": "<h3>BLOCK TITLE<\/h3>\n<p>Lorem ipsum dolor sit amet, congue orci justo semper eros.<\/p>"
+				}, {
+					"id": "{%ID-40%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					}
+				}],
+				"background_color": "#15a897",
+				"color": "#ffffff",
+				"padding_top": "20",
+				"padding_bottom": "20",
+				"padding_left": "30",
+				"padding_right": "30"
+			}, {
+				"id": "{%ID-41%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-42%}",
+					"type": "text",
+					"text": "<h3>BLOCK TITLE<\/h3>\n<p>Lorem ipsum dolor sit amet, congue orci justo semper eros.<\/p>"
+				}, {
+					"id": "{%ID-43%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					}
+				}],
+				"background_color": "#fff3cb",
+				"padding_top": "20",
+				"padding_bottom": "20",
+				"padding_left": "30",
+				"padding_right": "30"
+			}]
+		}]
+	}]
+}

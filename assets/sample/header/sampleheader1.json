@@ -1,0 +1,91 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "8",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "wpmenu",
+					"title": "<a href=\"#\" style=\"color:#185674;font-weight:bold;\" title=\"\">SITE TITLE LOGO<\/a>",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-none",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "sns_button",
+					"class_name": "weluka-text-right",
+					"direction": "h",
+					"margin_bottom": "0",
+					"buttons": [{
+						"name": "facebook",
+						"url": "https:\/\/www.facebook.com\/",
+						"text": ""
+					}, {
+						"name": "twitter",
+						"url": "https:\/\/x.com\/",
+						"text": ""
+					}, {
+						"name": "instagram",
+						"url": "https:\/\/www.instagram.com\/",
+						"text": ""
+					}]
+				}]
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"padding_left": "40",
+		"padding_right": "40",
+		"padding_sm_left": "0",
+		"padding_sm_right": "0",
+		"padding_xs_left": "0",
+		"padding_xs_right": "0"
+	}, {
+		"id": "{%ID-7%}",
+		"rows": [{
+			"id": "{%ID-8%}",
+			"colums": [{
+				"id": "{%ID-9%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-10%}",
+					"type": "apphorline",
+					"line_style": "solid",
+					"line_width": "1",
+					"line_color": "#bfbfbf",
+					"margin_top": "0",
+					"margin_bottom": "0"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"margin_md_top": "0",
+				"margin_md_bottom": "0"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}]
+}

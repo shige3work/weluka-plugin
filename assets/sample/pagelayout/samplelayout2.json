@@ -1,0 +1,161 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "text",
+					"text": "<h3 style=\"text-align: center; font-size: 30px;\">Lorem ipsum dolor sit amet,<\/span><br \/>per dicant disputando ne, sed cu rebum facete.<\/h3>"
+				}]
+			}]
+		}]
+	}, {
+		"id": "{%ID-5%}",
+		"rows": [{
+			"id": "{%ID-6%}",
+			"colums": [{
+				"id": "{%ID-7%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "icon",
+					"icon_class": "fa-plug",
+					"class_name": "weluka-text-center",
+					"icon_size": "130",
+					"icon_color": "#0cc2c2",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					}
+				}, {
+					"id": "{%ID-9%}",
+					"type": "title",
+					"text": "<h4 style=\"text-align: center;\">BLOCK TITLE TEXT<\/h4>",
+					"padding_top": "20"
+				}, {
+					"id": "{%ID-10%}",
+					"type": "text",
+					"text": "<p style=\"text-align: center;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae.<\/p>"
+				}],
+				"sm_col": "4"
+			}, {
+				"id": "{%ID-11%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "icon",
+					"icon_class": "fa-signal",
+					"class_name": "weluka-text-center",
+					"icon_size": "130",
+					"icon_color": "#0cc2c2",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					}
+				}, {
+					"id": "{%ID-13%}",
+					"type": "title",
+					"text": "<h4 style=\"text-align: center;\">BLOCK TITLE TEXT<\/h4>",
+					"padding_top": "20"
+				}, {
+					"id": "{%ID-14%}",
+					"type": "text",
+					"text": "<p style=\"text-align: center;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae.<\/p>"
+				}],
+				"sm_col": "4"
+			}, {
+				"id": "{%ID-15%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-16%}",
+					"type": "icon",
+					"icon_class": "fa-cogs",
+					"class_name": "weluka-text-center",
+					"icon_size": "130",
+					"icon_color": "#0cc2c2",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					}
+				}, {
+					"id": "{%ID-17%}",
+					"type": "title",
+					"text": "<h4 style=\"text-align: center;\">BLOCK TITLE TEXT<\/h4>",
+					"padding_top": "20"
+				}, {
+					"id": "{%ID-18%}",
+					"type": "text",
+					"text": "<p style=\"text-align: center;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae.<\/p>"
+				}],
+				"sm_col": "4"
+			}]
+		}]
+	}, {
+		"id": "{%ID-19%}",
+		"rows": [{
+			"id": "{%ID-20%}",
+			"colums": [{
+				"id": "{%ID-21%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-22%}",
+					"type": "title",
+					"text": "<p style=\"text-align: center;\">PROFILE<\/p>"
+				}],
+				"background_color": "#0cc2c2",
+				"color": "#ffffff",
+				"padding_top": "20",
+				"padding_bottom": "20"
+			}]
+		}]
+	}, {
+		"id": "{%ID-23%}",
+		"rows": [{
+			"id": "{%ID-24%}",
+			"colums": [{
+				"id": "{%ID-25%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-26%}",
+					"type": "gmap",
+					"addr": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e38\u306e\u51851-9-1",
+					"map_w": "100%",
+					"map_h": "300",
+					"zoom": 16
+				}],
+				"sm_col": "6"
+			}, {
+				"id": "{%ID-27%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-28%}",
+					"type": "title",
+					"text": "<h3>SAMPLE TEXT<\/h3>"
+				}, {
+					"id": "{%ID-29%}",
+					"type": "text",
+					"text": "<div class=\"table-responsive\">\n<table class=\"table\">\n<tbody>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<tr>\n<th>Header Text<\/th>\n<td>texttexttexttexttexttexttexttexttexttexttexttexttext<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>"
+				}],
+				"sm_col": "6"
+			}]
+		}, {
+			"id": "{%ID-30%}",
+			"colums": [{
+				"id": "{%ID-31%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-32%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>"
+				}]
+			}]
+		}]
+	}]
+}

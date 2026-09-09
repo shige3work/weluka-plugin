@@ -1,0 +1,621 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>"
+				}]
+			}]
+		}]
+	}, {
+		"id": "{%ID-5%}",
+		"rows": [{
+			"id": "{%ID-6%}",
+			"colums": [{
+				"id": "{%ID-7%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-9%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-10%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-11%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-13%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-14%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}],
+			"padding_left": "10",
+			"padding_right": "10"
+		}, {
+			"id": "{%ID-15%}",
+			"colums": [{
+				"id": "{%ID-16%}",
+				"col": 3,
+				"items": [{
+					"id": "{%ID-17%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-18%}",
+				"col": 3,
+				"items": [{
+					"id": "{%ID-19%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-20%}",
+				"col": 3,
+				"items": [{
+					"id": "{%ID-21%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-22%}",
+				"col": 3,
+				"items": [{
+					"id": "{%ID-23%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}],
+			"padding_left": "10",
+			"padding_right": "10"
+		}, {
+			"id": "{%ID-24%}",
+			"colums": [{
+				"id": "{%ID-25%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-26%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-27%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-28%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-29%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-30%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-31%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-32%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"sm_col": "6",
+				"xs_col": "6"
+			}],
+			"padding_left": "10",
+			"padding_right": "10"
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"cssClass": "weluka-nolineheight"
+	}, {
+		"id": "{%ID-33%}",
+		"rows": [{
+			"id": "{%ID-34%}",
+			"colums": [{
+				"id": "{%ID-35%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-36%}",
+					"type": "icon",
+					"icon_class": "fa-envelope-o",
+					"class_name": "weluka-text-center",
+					"icon_size": "70",
+					"icon_color": "#ffffff",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}, {
+					"id": "{%ID-37%}",
+					"type": "text",
+					"text": "[weluka-mail h=\"\" addr=\"xxxxx@weluka.me\" disp=\"xxxxx@weluka.me\" subject=\"\u304a\u554f\u3044\u5408\u308f\u305b\" style=\"text-align:center;font-size:30px;color:#ffffff;\" tag=\"p\"]"
+				}],
+				"background_color": "#2fb4d1",
+				"color": "#ffffff",
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_top": "20",
+				"padding_bottom": "20"
+			}, {
+				"id": "{%ID-38%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-39%}",
+					"type": "icon",
+					"icon_class": "fa-phone",
+					"class_name": "weluka-text-center",
+					"icon_size": "70",
+					"icon_color": "#6e6e6e",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}, {
+					"id": "{%ID-40%}",
+					"type": "text",
+					"text": "[weluka-phone h=\"\" no=\"0399999999\" disp=\"03-9999-9999\" style=\"text-align:center;font-size:30px;color:#6e6e6e;\" tag=\"p\"]"
+				}],
+				"background_color": "#ffd5e9",
+				"color": "#6b6b6b",
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_top": "20",
+				"padding_bottom": "20"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "60"
+	}]
+}

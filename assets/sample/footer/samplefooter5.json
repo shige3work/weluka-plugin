@@ -1,0 +1,574 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_color": "#185674",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "title",
+					"text": "<h3 class=\"weluka-text-center\">BLOCK TITLE<\/h3>",
+					"padding_bottom": "30",
+					"padding_sm_bottom": "10",
+					"margin_xs_bottom": "0",
+					"padding_xs_bottom": "15"
+				}],
+				"margin_xs_bottom": "0"
+			}]
+		}, {
+			"id": "{%ID-5%}",
+			"colums": [{
+				"id": "{%ID-6%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-7%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_sm_bottom": "0",
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-8%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-9%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_sm_bottom": "0",
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-10%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-11%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_sm_bottom": "0",
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-12%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-13%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_sm_bottom": "0",
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}]
+		}, {
+			"id": "{%ID-14%}",
+			"colums": [{
+				"id": "{%ID-15%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-16%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-17%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-18%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-19%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-20%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}, {
+				"id": "{%ID-21%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-22%}",
+					"type": "img",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/WWCFGMxos7.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": "_blank"
+					}
+				}],
+				"margin_xs_bottom": "0",
+				"sm_col": "3",
+				"xs_col": "6"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#ffffff",
+		"padding_top": "70",
+		"padding_bottom": "70",
+		"padding_sm_top": "30",
+		"padding_sm_bottom": "0",
+		"padding_xs_top": "30",
+		"padding_xs_bottom": "20"
+	}, {
+		"id": "{%ID-23%}",
+		"rows": [{
+			"id": "{%ID-24%}",
+			"colums": [{
+				"id": "{%ID-25%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-26%}",
+					"type": "icon",
+					"icon_class": "fa-envelope-square",
+					"class_name": "weluka-text-center",
+					"icon_size": "80",
+					"icon_color": "#185674",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					}
+				}],
+				"sm_col": "2"
+			}, {
+				"id": "{%ID-27%}",
+				"col": "9",
+				"items": [{
+					"id": "{%ID-28%}",
+					"type": "text",
+					"text": "<p style=\"font-size:26px;\">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISICING ELIT<\/p>"
+				}, {
+					"id": "{%ID-29%}",
+					"type": "text",
+					"text": "<div>Lorem ipsum dolor sit amet, id maluisset maiestatis vim, ad sed novum sonet euripidis. Ea aperiri mediocritatem qui, enim admodum mel at.<\/div>"
+				}],
+				"sm_col": "10"
+			}, {
+				"id": "{%ID-30%}",
+				"col": "2",
+				"items": [{
+					"id": "{%ID-31%}",
+					"type": "button",
+					"text": "CONTACT US",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-warning",
+					"size": "btn-lg",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"shape": "no-rounded",
+					"padding_top": "12",
+					"padding_sm_top": "0",
+					"margin_xs_top": "0"
+				}],
+				"margin_bottom": "0",
+				"sm_col": "12"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed"
+	}, {
+		"id": "{%ID-32%}",
+		"background_color": "#f7f7f7",
+		"rows": [{
+			"id": "{%ID-33%}",
+			"colums": [{
+				"id": "{%ID-34%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-35%}",
+					"subrows": [{
+						"id": "{%ID-36%}",
+						"subcolums": [{
+							"id": "{%ID-37%}",
+							"col": "6",
+							"subitems": [{
+								"id": "{%ID-38%}",
+								"type": "wpmenu",
+								"title": "",
+								"term_id": "",
+								"menu_layout": "vertical",
+								"color_theme": null,
+								"v_color_theme": "weluka-navbar-none",
+								"margin_xs_bottom": "0"
+							}],
+							"margin_bottom": "0",
+							"sm_col": "6"
+						}, {
+							"id": "{%ID-39%}",
+							"col": "6",
+							"subitems": [{
+								"id": "{%ID-40%}",
+								"type": "wpmenu",
+								"term_id": "",
+								"menu_layout": "vertical",
+								"v_color_theme": "weluka-navbar-none",
+								"margin_xs_top": "0"
+							}],
+							"margin_bottom": "0",
+							"sm_col": "6"
+						}]
+					}]
+				}],
+				"margin_bottom": "0"
+			}, {
+				"id": "{%ID-41%}",
+				"col": "5",
+				"items": [{
+					"id": "{%ID-42%}",
+					"type": "gmap",
+					"addr": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e38\u306e\u51851-9-1",
+					"map_w": "100%",
+					"map_h": "180",
+					"zoom": "16",
+					"border_size": "10",
+					"border_style": "solid",
+					"border_color": "#ffffff"
+				}, {
+					"id": "{%ID-43%}",
+					"subrows": [{
+						"id": "{%ID-44%}",
+						"subcolums": [{
+							"id": "{%ID-45%}",
+							"col": "6",
+							"subitems": [{
+								"id": "{%ID-46%}",
+								"type": "text",
+								"text": "<div class=\"weluka-spcenter\"><a href=\"#\" style=\"color:#185674;font-weight:bold;font-size:18px;\" title=\"\">SITE TITLE LOGO<\/a><\/div>"
+							}],
+							"margin_bottom": "0",
+							"sm_col": "6",
+							"xs_col": "12"
+						}, {
+							"id": "{%ID-47%}",
+							"col": "6",
+							"subitems": [{
+								"id": "{%ID-48%}",
+								"type": "text",
+								"text": "<div class=\"weluka-spcenter weluka-text-right\">[weluka-phone no=\"0399999999\" disp=\"03-9999-9999\" i=true style=\"font-size:18px;color:#777;\" tag=\"div\"]<\/div>"
+							}],
+							"margin_bottom": "0",
+							"sm_col": "6",
+							"xs_col": "12"
+						}]
+					}]
+				}],
+				"margin_bottom": "0"
+			}]
+		}, {
+			"id": "{%ID-49%}",
+			"colums": [{
+				"id": "{%ID-50%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-51%}",
+					"type": "sns_button",
+					"cssClass": "weluka-spcenter",
+					"class_name": "weluka-text-right",
+					"direction": "h",
+					"buttons": [{
+						"name": "facebook",
+						"url": "https:\/\/www.facebook.com\/",
+						"text": ""
+					}, {
+						"name": "twitter",
+						"url": "https:\/\/x.com\/",
+						"text": ""
+					}, {
+						"name": "instagram",
+						"url": "https:\/\/www.instagram.com\/",
+						"text": ""
+					}]
+				}],
+				"margin_bottom": "0",
+				"cssClass": "weluka-col-md-push-6 weluka-col-sm-push-6",
+				"sm_col": "6",
+				"xs_col": "12"
+			}, {
+				"id": "{%ID-52%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-53%}",
+					"type": "text",
+					"text": "<div class=\"weluka-spcenter\">\u00a9 2017 weluka sample footer.<\/div>"
+				}],
+				"margin_bottom": "0",
+				"cssClass": "weluka-col-md-pull-6 weluka-col-sm-pull-6",
+				"sm_col": "6",
+				"xs_col": "12"
+			}]
+		}, {
+			"id": "{%ID-54%}",
+			"colums": [{
+				"id": "{%ID-55%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-56%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, id maluisset maiestatis vim, ad sed novum sonet euripidis. Ea aperiri mediocritatem qui, enim admodum mel at. Ex cum labore petentium, sed at hinc dicta repudiare, atqui propriae deseruisse at cum. In lucilius nominati sea, clita euismod ea quo, paulo graeci ea per.<\/p>\n<p>Duo ex impedit tincidunt, vix cu salutatus constituam. Nibh diceret in vel, ne mea duis platonem maluisset. Sed enim deserunt convenire cu. Te wisi vitae placerat duo. Usu simul mediocrem dissentiunt in.<\/p>"
+				}],
+				"margin_bottom": "0"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "50",
+		"padding_bottom": "50",
+		"padding_sm_top": "30",
+		"padding_sm_bottom": "30",
+		"padding_xs_top": "20",
+		"padding_xs_bottom": "20"
+	}]
+}

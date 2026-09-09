@@ -1,0 +1,245 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_color": "#1b1b1b",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "img",
+					"attachment_id": "",
+					"class_name": "weluka-text-left",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/r5rBxPJY55.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "5"
+				}],
+				"sm_col": "4",
+				"xs_col": "9"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "wpmenu",
+					"title": "",
+					"term_id": "",
+					"menu_layout": "horizontal",
+					"color_theme": "weluka-navbar-none",
+					"align": "navbar-right",
+					"shape": "no-rounded",
+					"font_size": "18",
+					"custom_base_color": "#1b1b1b",
+					"custom_border_color": "#329f95",
+					"custom_text_color": "#ffffff",
+					"hide_border": "1",
+					"flg_description": "on",
+					"desc_align": "weluka-navdesc-top",
+					"desc_bold": "0",
+					"desc_underline": "0",
+					"desc_italic": "0",
+					"desc_font_size": "12.6",
+					"desc_text_color": "#c4c4c4",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"hideviews": "sm,xs"
+				}, {
+					"id": "{%ID-7%}",
+					"type": "wpmenu",
+					"title": "",
+					"term_id": "",
+					"menu_layout": "hamburger",
+					"color_theme": "weluka-navbar-none",
+					"align": "navbar-right",
+					"shape": "no-rounded",
+					"font_size": "18",
+					"ham_color_theme": null,
+					"ham_align": "navbar-right",
+					"ham_shape": "no-rounded",
+					"ham_size": "weluka-medium",
+					"ham_bold": "0",
+					"ham_underline": "0",
+					"ham_italic": "0",
+					"ham_drower": "on",
+					"custom_base_color": "#1b1b1b",
+					"custom_border_color": "#329f95",
+					"custom_text_color": "#ffffff",
+					"hide_border": "1",
+					"flg_description": "on",
+					"desc_align": "weluka-navdesc-top",
+					"desc_bold": "0",
+					"desc_underline": "0",
+					"desc_italic": "0",
+					"desc_font_size": "12.6",
+					"desc_text_color": "#c4c4c4",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"padding_top": "5",
+					"hideviews": "lg,md"
+				}],
+				"sm_col": "8",
+				"xs_col": "3"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-8%}",
+		"rows": [{
+			"id": "{%ID-9%}",
+			"colums": [{
+				"id": "{%ID-10%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-11%}",
+					"type": "apphorline",
+					"line_style": "solid",
+					"line_width": "8",
+					"line_color": "#329f95",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"padding_top": "0",
+					"padding_bottom": "0"
+				}],
+				"padding_sm_left": "0",
+				"padding_sm_right": "0",
+				"padding_xs_left": "0",
+				"padding_xs_right": "0"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-12%}",
+		"rows": [{
+			"id": "{%ID-13%}",
+			"colums": [{
+				"id": "{%ID-14%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-15%}",
+					"type": "title",
+					"text": "<h1 class=\"weluka-text-left\" style=\"font-size:13.6px; margin-bottom:0; line-height:1.2;\">Lorem ipsum dolor sit amet, sed facete melius inermis ut, inermis docendi ad cum, usu facer posidonium et. Eum sumo cotidieque eu, at nec inani reformidans complectitur. <\/h1>",
+					"color": "#a3a3a3"
+				}],
+				"sm_col": "12"
+			}, {
+				"id": "{%ID-16%}",
+				"col": "3",
+				"items": [{
+					"id": "{%ID-17%}",
+					"type": "text",
+					"text": "[weluka-phone no=\"0399999999\" disp=\"03-9999-9999\" i=true style=\"font-size:28px;color:#777;text-align:right;\" tag=\"div\"]",
+					"margin_sm_top": "0"
+				}],
+				"sm_col": "9"
+			}, {
+				"id": "{%ID-18%}",
+				"col": "2",
+				"items": [{
+					"id": "{%ID-19%}",
+					"type": "sns_button",
+					"class_name": "weluka-text-right",
+					"direction": "h",
+					"margin_sm_top": "0",
+					"buttons": [{
+						"name": "facebook",
+						"url": "https:\/\/www.facebook.com\/",
+						"text": ""
+					}, {
+						"name": "twitter",
+						"url": "https:\/\/x.com\/",
+						"text": ""
+					}, {
+						"name": "instagram",
+						"url": "https:\/\/www.instagram.com\/",
+						"text": ""
+					}]
+				}],
+				"sm_col": "3"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}, {
+		"id": "{%ID-20%}",
+		"rows": [{
+			"id": "{%ID-21%}",
+			"colums": [{
+				"id": "{%ID-22%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-23%}",
+					"type": "apphorline",
+					"line_style": "solid",
+					"line_width": "1",
+					"line_color": "#d6d6d6",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"padding_top": "0",
+					"padding_bottom": "0"
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_sm_left": "0",
+				"padding_sm_right": "0",
+				"padding_xs_left": "0",
+				"padding_xs_right": "0"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}]
+}

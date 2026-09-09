@@ -1,0 +1,1133 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "img",
+					"attachment_id": "",
+					"class_name": "weluka-text-center",
+					"title": "web_womans-legs-887286_1920",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/2C0Tx3-MsJ.jpg",
+					"link": {
+						"action": "zoom",
+						"href": "//cldup.com/2C0Tx3-MsJ.jpg",
+						"target": ""
+					},
+					"fitwidth": "on",
+					"animation_delay": "0.0"
+				}],
+				"animation_type": "weluka-fadein-left",
+				"animation_delay": "0.0",
+				"cssClass": "weluka-nolineheight",
+				"sm_col": "none",
+				"xs_col": "none"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-6%}",
+					"subrows": [{
+						"id": "{%ID-7%}",
+						"subcolums": [{
+							"id": "{%ID-8%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-9%}",
+								"type": "title2",
+								"text": "weluka sample",
+								"title_html_tag": "h1",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_font_size": "40",
+								"title_color": "#54c2b5",
+								"margin_top": "0",
+								"animation_delay": "0.0"
+							}],
+							"margin_top": "0",
+							"margin_bottom": "0",
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-10%}",
+						"subcolums": [{
+							"id": "{%ID-11%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-12%}",
+								"type": "wpmenu",
+								"term_id": "",
+								"menu_layout": "horizontal",
+								"color_theme": "weluka-navbar-none",
+								"shape": "no-rounded",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"font_size": "13.6",
+								"v_color_theme": null,
+								"v_align": null,
+								"v_bold": "0",
+								"v_underline": "0",
+								"v_italic": "0",
+								"ham_color_theme": null,
+								"ham_bold": "0",
+								"ham_underline": "0",
+								"ham_italic": "0",
+								"custom_base_color": "#ffffff",
+								"custom_border_color": "rgba(255,255,255,0)",
+								"hide_border": "1",
+								"margin_top": "0",
+								"margin_bottom": "0",
+								"margin_left": "-10",
+								"cssClass": "weluka-sample13-glnav",
+								"margin_md_top": "0",
+								"margin_md_bottom": "0",
+								"margin_sm_top": "0",
+								"margin_sm_bottom": "0",
+								"margin_xs_top": "0",
+								"margin_xs_bottom": "0",
+								"desc_bold": "0",
+								"desc_underline": "0",
+								"desc_italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"margin_top": "0",
+							"margin_bottom": "0",
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-13%}",
+						"subcolums": [{
+							"id": "{%ID-14%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-15%}",
+								"type": "title2",
+								"text": "Duo ut mandamus reprehendunt,<br \/>id blandit mandamus dignissim quo.",
+								"title_html_tag": "h2",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_color": "#2b2b2b",
+								"animation_delay": "0.0"
+							}],
+							"padding_top": "70",
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-16%}",
+						"subcolums": [{
+							"id": "{%ID-17%}",
+							"col": "10",
+							"subitems": [{
+								"id": "{%ID-18%}",
+								"type": "text",
+								"text": "Lorem ipsum dolor sit amet, vis ut velit augue erant, ei quot case vix, labore propriae eu pri. Prima cetero ne qui, mucius eleifend est cu. Sea ei accusata voluptaria, posse oratio scripserit no eos. Mei in ferri tantas sanctus, decore facilis ceteros mei eu, quis partem ignota in mei. Nonumes admodum detraxit ius ei, te mel mazim persius offendit, in summo partem nam. Sed te epicuri voluptua efficiendi."
+							}, {
+								"id": "{%ID-19%}",
+								"type": "text",
+								"text": "Pro animal virtute labores ex. Eam modo enim evertitur ad, idque verterem gubergren qui at, eu nam urbanitas voluptatibus. Illud commodo delicata id pri, ius id elitr noster fabellas, id porro senserit necessitatibus vel. Id audire minimum deserunt duo, ne tation tollit lobortis qui. Usu errem eleifend ei, sed mucius delectus senserit te. Nam id alii civibus persecuti. Ut hinc euismod per, usu ei virtute civibus interesset, eu vix mazim graece fierent."
+							}],
+							"padding_top": "20",
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-20%}",
+						"subcolums": [{
+							"id": "{%ID-21%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-22%}",
+								"type": "button",
+								"text": "BUTTON",
+								"class_name": "weluka-text-left",
+								"size": "btn-lg",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "50",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"custom_base_color": "#ffffff",
+								"custom_border_color": "#54c2b5",
+								"custom_text_color": "#54c2b5",
+								"custom_border_size": "3",
+								"custom_hvborder_color": "#f5be00",
+								"custom_hvtext_color": "#f5be00",
+								"padding_inwrap_left": "50",
+								"padding_inwrap_right": "50",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"padding_top": "70",
+						"animation_delay": "0.0"
+					}]
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_top": "100",
+				"padding_bottom": "100",
+				"padding_left": "100",
+				"padding_right": "50",
+				"animation_type": "weluka-fadein",
+				"animation_delay": "1.2",
+				"sm_col": "none",
+				"xs_col": "none"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"animation_delay": "0.0",
+		"cssClass": "weluka-sample13-ovhidden",
+		"hideviews": "md,sm,xs"
+	}, {
+		"id": "{%ID-23%}",
+		"rows": [{
+			"id": "{%ID-24%}",
+			"colums": [{
+				"id": "{%ID-25%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-26%}",
+					"type": "img",
+					"attachment_id": "",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/2C0Tx3-MsJ.jpg",
+					"link": {
+						"action": "zoom",
+						"href": "//cldup.com/2C0Tx3-MsJ.jpg",
+						"target": ""
+					},
+					"fitwidth": "on",
+					"animation_delay": "0.0"
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_left": "0",
+				"padding_right": "0",
+				"animation_type": "weluka-fadein-left",
+				"animation_delay": "0.0",
+				"cssClass": "weluka-nolineheight",
+				"hideviews": "xs",
+				"sm_col": "6",
+				"xs_col": "none"
+			}, {
+				"id": "{%ID-27%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-28%}",
+					"subrows": [{
+						"id": "{%ID-29%}",
+						"subcolums": [{
+							"id": "{%ID-30%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-31%}",
+								"type": "title2",
+								"text": "weluka sample",
+								"title_html_tag": "h1",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_font_size": "40",
+								"title_color": "#54c2b5",
+								"margin_top": "0",
+								"animation_delay": "0.0"
+							}, {
+								"id": "{%ID-32%}",
+								"type": "wpmenu",
+								"term_id": "",
+								"menu_layout": "horizontal",
+								"color_theme": "weluka-navbar-none",
+								"shape": "no-rounded",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"font_size": "13.6",
+								"v_color_theme": null,
+								"v_align": null,
+								"v_bold": "0",
+								"v_underline": "0",
+								"v_italic": "0",
+								"ham_color_theme": null,
+								"ham_bold": "0",
+								"ham_underline": "0",
+								"ham_italic": "0",
+								"custom_base_color": "#ffffff",
+								"custom_border_color": "rgba(255,255,255,0)",
+								"hide_border": "1",
+								"margin_top": "0",
+								"margin_bottom": "0",
+								"margin_left": "-10",
+								"cssClass": "weluka-sample13-glnav",
+								"margin_md_top": "0",
+								"margin_md_bottom": "0",
+								"margin_sm_top": "0",
+								"margin_sm_bottom": "0",
+								"margin_xs_top": "0",
+								"margin_xs_bottom": "0",
+								"desc_bold": "0",
+								"desc_underline": "0",
+								"desc_italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"margin_top": "0",
+							"margin_bottom": "0",
+							"animation_delay": "0.0",
+							"padding_xs_left": "10",
+							"padding_xs_right": "10",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"animation_delay": "0.0",
+						"hideviews": "sm,xs"
+					}, {
+						"id": "{%ID-33%}",
+						"subcolums": [{
+							"id": "{%ID-34%}",
+							"col": "8",
+							"subitems": [{
+								"id": "{%ID-35%}",
+								"type": "title2",
+								"text": "weluka sample",
+								"title_html_tag": "h1",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_font_size": "40",
+								"title_color": "#54c2b5",
+								"title_sm_font_size": "32",
+								"title_xs_font_size": "26",
+								"margin_top": "0",
+								"padding_top": "10",
+								"animation_delay": "0.0"
+							}],
+							"margin_top": "0",
+							"margin_bottom": "0",
+							"animation_delay": "0.0",
+							"padding_xs_inwrap_left": "0",
+							"padding_xs_inwrap_right": "0",
+							"sm_col": "none",
+							"xs_col": "9"
+						}, {
+							"id": "{%ID-36%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-37%}",
+								"type": "wpmenu",
+								"term_id": "",
+								"menu_layout": "hamburger",
+								"color_theme": "weluka-navbar-none",
+								"shape": "no-rounded",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"font_size": "13.6",
+								"v_color_theme": null,
+								"v_align": null,
+								"v_bold": "0",
+								"v_underline": "0",
+								"v_italic": "0",
+								"ham_color_theme": null,
+								"ham_align": "navbar-right",
+								"ham_shape": "no-rounded",
+								"ham_size": "weluka-medium",
+								"ham_bold": "0",
+								"ham_underline": "0",
+								"ham_italic": "0",
+								"custom_base_color": "#ffffff",
+								"custom_border_color": "rgba(255,255,255,0)",
+								"hide_border": "1",
+								"margin_top": "0",
+								"margin_bottom": "0",
+								"margin_left": "0",
+								"cssClass": "weluka-sample13-glnav",
+								"margin_md_top": "0",
+								"margin_md_bottom": "0",
+								"margin_sm_top": "0",
+								"margin_sm_bottom": "0",
+								"margin_xs_top": "0",
+								"margin_xs_bottom": "0",
+								"ham_drower": "on",
+								"desc_bold": "0",
+								"desc_underline": "0",
+								"desc_italic": "0",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"padding_xs_left": "0",
+							"padding_xs_right": "0",
+							"sm_col": "none",
+							"xs_col": "3"
+						}],
+						"animation_delay": "0.0",
+						"hideviews": "lg,md"
+					}, {
+						"id": "{%ID-38%}",
+						"subcolums": [{
+							"id": "{%ID-39%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-40%}",
+								"type": "title2",
+								"text": "Duo ut mandamus reprehendunt,<br \/>id blandit mandamus dignissim quo.",
+								"title_html_tag": "h2",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								},
+								"icon_type": "",
+								"icon": {
+									"icon_md_size": "",
+									"icon_sm_size": "",
+									"icon_xs_size": ""
+								},
+								"title_bold": 0,
+								"title_underline": 0,
+								"title_italic": 0,
+								"title_align": null,
+								"title_color": "#2b2b2b",
+								"title_sm_font_size": "22",
+								"title_xs_font_size": "16",
+								"animation_delay": "0.0"
+							}],
+							"padding_top": "70",
+							"animation_delay": "0.0",
+							"padding_sm_top": "20",
+							"padding_xs_top": "20",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-41%}",
+						"subcolums": [{
+							"id": "{%ID-42%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-43%}",
+								"type": "text",
+								"text": "Lorem ipsum dolor sit amet, vis ut velit augue erant, ei quot case vix, labore propriae eu pri. Prima cetero ne qui, mucius eleifend est cu. Sea ei accusata voluptaria, posse oratio scripserit no eos. Mei in ferri tantas sanctus, decore facilis ceteros mei eu, quis partem ignota in mei. Nonumes admodum detraxit ius ei, te mel mazim persius offendit, in summo partem nam. Sed te epicuri voluptua efficiendi."
+							}, {
+								"id": "{%ID-44%}",
+								"type": "text",
+								"text": "Pro animal virtute labores ex. Eam modo enim evertitur ad, idque verterem gubergren qui at, eu nam urbanitas voluptatibus. Illud commodo delicata id pri, ius id elitr noster fabellas, id porro senserit necessitatibus vel. Id audire minimum deserunt duo, ne tation tollit lobortis qui. Usu errem eleifend ei, sed mucius delectus senserit te. Nam id alii civibus persecuti. Ut hinc euismod per, usu ei virtute civibus interesset, eu vix mazim graece fierent."
+							}],
+							"padding_top": "20",
+							"animation_delay": "0.0",
+							"padding_sm_top": "0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}]
+					}, {
+						"id": "{%ID-45%}",
+						"subcolums": [{
+							"id": "{%ID-46%}",
+							"col": "12",
+							"subitems": [{
+								"id": "{%ID-47%}",
+								"type": "button",
+								"text": "BUTTON",
+								"class_name": "weluka-text-left",
+								"size": "btn-lg",
+								"block": "",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "50",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"custom_base_color": "#ffffff",
+								"custom_border_color": "#54c2b5",
+								"custom_text_color": "#54c2b5",
+								"custom_border_size": "3",
+								"custom_hvborder_color": "#f5be00",
+								"custom_hvtext_color": "#f5be00",
+								"padding_inwrap_left": "50",
+								"padding_inwrap_right": "50",
+								"animation_delay": "0.0"
+							}],
+							"animation_delay": "0.0",
+							"sm_col": "none",
+							"xs_col": "none"
+						}],
+						"padding_top": "70",
+						"animation_delay": "0.0",
+						"padding_sm_top": "20",
+						"padding_xs_top": "20"
+					}]
+				}],
+				"margin_top": "0",
+				"margin_bottom": "0",
+				"padding_top": "30",
+				"padding_left": "20",
+				"padding_right": "20",
+				"animation_type": "weluka-fadein",
+				"animation_delay": "0.5",
+				"padding_xs_bottom": "30",
+				"sm_col": "6",
+				"xs_col": "none"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"padding_top": "0",
+		"padding_bottom": "0",
+		"animation_delay": "0.0",
+		"hideviews": "lg"
+	}, {
+		"id": "{%ID-48%}",
+		"background_image": "//cldup.com/h43V696vJY.jpg",
+		"rows": [{
+			"id": "{%ID-49%}",
+			"colums": [{
+				"id": "{%ID-50%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-51%}",
+					"type": "img",
+					"attachment_id": "",
+					"class_name": "weluka-text-center",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/LHJrE7a5Cp.png",
+					"link": {
+						"action": "zoom",
+						"href": "//cldup.com/LHJrE7a5Cp.png",
+						"target": ""
+					},
+					"animation_delay": "0.0"
+				}],
+				"animation_type": "weluka-zoomin",
+				"animation_delay": "0.5",
+				"sm_col": "6",
+				"xs_col": "none"
+			}, {
+				"id": "{%ID-52%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-53%}",
+					"type": "title2",
+					"text": "Lorem ipsum dolor sit amet, per dicant disputando ne, sed cu rebum facete.",
+					"title_html_tag": "h2",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"icon_type": "",
+					"icon": {
+						"icon_md_size": "",
+						"icon_sm_size": "",
+						"icon_xs_size": ""
+					},
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"animation_delay": "0.0"
+				}, {
+					"id": "{%ID-54%}",
+					"subrows": [{
+						"id": "{%ID-54%}",
+						"subcolums": [{
+							"id": "{%ID-55%}",
+							"col": 6,
+							"subitems": [{
+								"id": "{%ID-56%}",
+								"type": "text",
+								"text": "<p>Lorem ipsum dolor sit amet, vis ut velit augue erant, ei quot case vix, labore propriae eu pri. Prima cetero ne qui, mucius eleifend est cu. Sea ei accusata voluptaria, posse oratio scripserit no eos. Mei in ferri tantas sanctus, decore facilis ceteros mei eu, quis partem ignota in mei. Nonumes admodum detraxit ius ei, te mel mazim persius offendit, in summo partem nam. Sed te epicuri voluptua efficiendi.<\/p>",
+								"animation_delay": "0.0"
+							}]
+						}, {
+							"id": "{%ID-57%}",
+							"col": 6,
+							"subitems": [{
+								"id": "{%ID-58%}",
+								"type": "text",
+								"text": "<p>Lorem ipsum dolor sit amet, vis ut velit augue erant, ei quot case vix, labore propriae eu pri. Prima cetero ne qui, mucius eleifend est cu. Sea ei accusata voluptaria, posse oratio scripserit no eos. Mei in ferri tantas sanctus, decore facilis ceteros mei eu, quis partem ignota in mei. Nonumes admodum detraxit ius ei, te mel mazim persius offendit, in summo partem nam. Sed te epicuri voluptua efficiendi.<\/p>",
+								"animation_delay": "0.0"
+							}]
+						}],
+						"padding_top": "30",
+						"animation_delay": "0.0",
+						"padding_sm_top": "20"
+					}, {
+						"id": "{%ID-59%}",
+						"subcolums": [{
+							"id": "{%ID-60%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-61%}",
+								"type": "button",
+								"text": "BUTTON",
+								"class_name": "weluka-text-left",
+								"size": "btn-lg",
+								"link": {
+									"action": "gotolink",
+									"href": "#",
+									"target": ""
+								},
+								"radius_size": "50",
+								"bold": "0",
+								"underline": "0",
+								"italic": "0",
+								"custom_base_color": "rgba(255,255,255,0)",
+								"custom_border_color": "#2b2b2b",
+								"custom_text_color": "#2b2b2b",
+								"custom_border_size": "3",
+								"custom_hvborder_color": "#54c2b5",
+								"custom_hvtext_color": "#54c2b5",
+								"padding_inwrap_left": "50",
+								"padding_inwrap_right": "50",
+								"animation_delay": "0.0"
+							}]
+						}],
+						"padding_top": "30",
+						"animation_delay": "0.0",
+						"padding_sm_top": "20"
+					}]
+				}],
+				"padding_left": "100",
+				"animation_type": "weluka-fadein-down",
+				"animation_delay": "1.2",
+				"padding_md_left": "50",
+				"padding_sm_left": "20",
+				"padding_xs_left": "10",
+				"padding_xs_right": "10",
+				"sm_col": "6",
+				"xs_col": "none"
+			}]
+		}],
+		"container_type": "",
+		"container_height": "100",
+		"container_valign": "on",
+		"bg_type": "image",
+		"attachment_id": "",
+		"full": {
+			"url": "",
+			"width": "",
+			"height": ""
+		},
+		"bgsize_type": "cover",
+		"bgsize": "",
+		"bgpos": "",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#2b2b2b",
+		"animation_delay": "0.0",
+		"container_md_height": "auto",
+		"padding_md_top": "70",
+		"padding_md_bottom": "70",
+		"container_sm_height": "auto",
+		"container_xs_height": "auto"
+	}, {
+		"id": "{%ID-62%}",
+		"background_color": "#1b1b1b",
+		"rows": [{
+			"id": "{%ID-63%}",
+			"colums": [{
+				"id": "{%ID-64%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-65%}",
+					"type": "title2",
+					"text": "Per in case expetenda. Saperet necessitatibus an per.",
+					"title_html_tag": "div",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"icon_type": "",
+					"icon": {
+						"icon_md_size": "",
+						"icon_sm_size": "",
+						"icon_xs_size": ""
+					},
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": "weluka-text-center",
+					"title_font": "font-family:'Open Sans',sans-serif;font-weight:400;",
+					"title_font_size": "36",
+					"title_color": "#54c2b5",
+					"title_sm_font_size": "24",
+					"title_xs_font_size": "16",
+					"animation_type": "weluka-rubberband",
+					"animation_delay": "0"
+				}]
+			}]
+		}],
+		"container_type": "",
+		"bg_type": "image",
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#ffffff"
+	}, {
+		"id": "{%ID-66%}",
+		"rows": [{
+			"id": "{%ID-67%}",
+			"colums": [{
+				"id": "{%ID-68%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-69%}",
+					"type": "applist",
+					"layout_class": "mediatop",
+					"media_display": "1",
+					"title_display": "1",
+					"meta1_display": "1",
+					"meta2_display": "",
+					"content_display": "1",
+					"row_column": "1",
+					"layout_class_sm": "mediatop",
+					"layout_class_xs": "mediatop",
+					"media_col": "4",
+					"media_align": "weluka-text-left",
+					"media_shape": null,
+					"title_html_tag": "h4",
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"meta1_bold": "0",
+					"meta1_underline": "0",
+					"meta1_italic": "0",
+					"meta1_align": null,
+					"meta2_bold": "0",
+					"meta2_underline": "0",
+					"meta2_italic": "0",
+					"meta2_align": null,
+					"content_align": null,
+					"button_align": null,
+					"button_color": "weluka-btn-info",
+					"list_eqh": "0",
+					"box_style": "weluka-listblock-notthumbp",
+					"box_style_shadow": "1",
+					"animation_delay": "0.0",
+					"datas": [{
+						"media": {
+							"type": "img",
+							"alt": "",
+							"attachment_id": "",
+							"external": "//cldup.com/cdGN-7Lc6r.jpg",
+							"fitwidth": "on",
+							"full": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"large": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"medium": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"thumbnail": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"link": {
+								"action": "",
+								"href": "",
+								"target": ""
+							},
+							"source_type": "extern",
+							"title": "web_girl-775342_1920",
+							"url": ""
+						},
+						"title": {
+							"text": "Sample Product"
+						},
+						"content": {
+							"text": "Duo ut mandamus reprehendunt, id blandit mandamus dignissim quo. Sed ut noluisse necessitatibus. Iisque fastidii deserunt ne vel. Usu omnis quaestio ad. Duo ad dicam repudiare, iriure volumus mei ad. Mundi euripidis efficiantur ut usu, ad vim populo legendos."
+						},
+						"meta1": {
+							"text": "Category  9,999"
+						},
+						"meta2": {
+							"text": ""
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}]
+				}],
+				"animation_type": "weluka-slidein-down",
+				"animation_delay": "1",
+				"sm_col": "4",
+				"xs_col": "none"
+			}, {
+				"id": "{%ID-70%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-71%}",
+					"type": "applist",
+					"layout_class": "mediamiddle",
+					"media_display": "1",
+					"title_display": "1",
+					"meta1_display": "1",
+					"content_display": "1",
+					"media_col": "4",
+					"media_align": "weluka-text-left",
+					"media_shape": null,
+					"title_html_tag": "h4",
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"meta1_bold": "0",
+					"meta1_underline": "0",
+					"meta1_italic": "0",
+					"meta1_align": null,
+					"meta2_bold": "0",
+					"meta2_underline": "0",
+					"meta2_italic": "0",
+					"meta2_align": null,
+					"content_align": null,
+					"button_align": null,
+					"button_color": "weluka-btn-info",
+					"list_eqh": "0",
+					"box_style": "weluka-listblock-notthumbp",
+					"box_style_shadow": "1",
+					"animation_delay": "0.0",
+					"datas": [{
+						"media": {
+							"type": "img",
+							"attachment_id": "",
+							"external": "//cldup.com/K0LanqUXpS.jpg",
+							"fitwidth": "on",
+							"full": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"large": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"medium": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"thumbnail": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"link": {
+								"action": "",
+								"href": "",
+								"target": ""
+							},
+							"source_type": "extern",
+							"title": "web_girl-788815_1920",
+							"url": ""
+						},
+						"title": {
+							"text": "Sample Product"
+						},
+						"content": {
+							"text": "Duo ut mandamus reprehendunt, id blandit mandamus dignissim quo. Sed ut noluisse necessitatibus. Iisque fastidii deserunt ne vel. Usu omnis quaestio ad. Duo ad dicam repudiare, iriure volumus mei ad. Mundi euripidis efficiantur ut usu, ad vim populo legendos."
+						},
+						"meta1": {
+							"text": "Category  8,888"
+						},
+						"meta2": {
+							"text": ""
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}]
+				}],
+				"animation_type": "weluka-slidein-down",
+				"animation_delay": "1.6",
+				"sm_col": "4",
+				"xs_col": "none"
+			}, {
+				"id": "{%ID-72%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-73%}",
+					"type": "applist",
+					"layout_class": "mediabottom",
+					"media_display": "1",
+					"title_display": "1",
+					"meta1_display": "1",
+					"content_display": "1",
+					"row_column": "1",
+					"media_col": "4",
+					"media_align": "weluka-text-left",
+					"media_shape": null,
+					"title_html_tag": "h4",
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": null,
+					"meta1_bold": "0",
+					"meta1_underline": "0",
+					"meta1_italic": "0",
+					"meta1_align": null,
+					"meta2_bold": "0",
+					"meta2_underline": "0",
+					"meta2_italic": "0",
+					"meta2_align": null,
+					"content_align": null,
+					"button_align": null,
+					"button_color": "weluka-btn-info",
+					"list_eqh": "0",
+					"box_style": "weluka-listblock-notthumbp",
+					"box_style_shadow": "1",
+					"animation_delay": "0.0",
+					"datas": [{
+						"media": {
+							"type": "img",
+							"alt": "",
+							"attachment_id": "",
+							"external": "//cldup.com/zBygctElNF.jpg",
+							"fitwidth": "on",
+							"full": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"large": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"medium": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"thumbnail": {
+								"height": "",
+								"url": "",
+								"width": ""
+							},
+							"link": {
+								"action": "",
+								"href": "",
+								"target": ""
+							},
+							"source_type": "extern",
+							"title": "web_men-2424940_1920",
+							"url": ""
+						},
+						"title": {
+							"text": "Sample Product"
+						},
+						"content": {
+							"text": "Duo ut mandamus reprehendunt, id blandit mandamus dignissim quo. Sed ut noluisse necessitatibus. Iisque fastidii deserunt ne vel. Usu omnis quaestio ad. Duo ad dicam repudiare, iriure volumus mei ad. Mundi euripidis efficiantur ut usu, ad vim populo legendos."
+						},
+						"meta1": {
+							"text": "Category  7,777"
+						},
+						"meta2": {
+							"text": ""
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}]
+				}],
+				"animation_type": "weluka-slidein-down",
+				"animation_delay": "2.2",
+				"sm_col": "4",
+				"xs_col": "none"
+			}]
+		}]
+	}, {
+		"id": "{%ID-74%}",
+		"background_color": "#1b1b1b",
+		"rows": [{
+			"id": "{%ID-75%}",
+			"colums": [{
+				"id": "{%ID-76%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-77%}",
+					"type": "text",
+					"text": "<div class=\"weluka-text-right\"><a href=\"https:\/\/ja-jp.facebook.com\/\" target=\"_blank\" class=\"weluka-icon-24-2\"><i class=\"fa fa-facebook-square\"><\/i><\/a><a href=\"https:\/\/www.instagram.com\/\" target=\"_blank\" class=\"weluka-icon-24-2\"><i class=\"fa fa-instagram\"><\/i><\/a><a href=\"https:\/\/www.youtube.com\/?hl=ja&gl=JP\" target=\"_blank\" class=\"weluka-icon-24-2\"><i class=\"fa fa-youtube-square\"><\/i><\/a><a href=\"https:\/\/vimeo.com\/\" target=\"_blank\" class=\"weluka-icon-24-2\"><i class=\"fa fa-vimeo-square\"><\/i><\/a><\/div>",
+					"animation_delay": "0.0"
+				}, {
+					"id": "{%ID-78%}",
+					"type": "title",
+					"text": "<p class=\"weluka-text-right\">copyright \u00a9 2016 weluka All rights reserved.<\/p>"
+				}],
+				"animation_delay": "0.0",
+				"sm_col": "none",
+				"xs_col": "none"
+			}]
+		}],
+		"container_type": "",
+		"animation_delay": "0.0"
+	}],
+	"pagesetting": {
+		"seo_title": "",
+		"seo_keywords": "",
+		"seo_description": "",
+		"onepage": 1,
+		"hide_hd": 1,
+		"hide_ft": 1,
+		"hide_title": "1",
+		"hide_postmeta": "1",
+		"hide_sd_main": 1,
+		"hide_sd_sub": 1,
+		"show_sd_main": 0,
+		"show_sd_sub": 0
+	}
+}

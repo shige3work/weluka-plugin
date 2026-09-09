@@ -1,0 +1,178 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_color": "#146e7a",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "1",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "wpmenu",
+					"title": "",
+					"term_id": "",
+					"menu_layout": "hamburger",
+					"color_theme": "weluka-navbar-white",
+					"align": "navbar-center",
+					"shape": "no-rounded",
+					"ham_color_theme": "weluka-navbar-white",
+					"ham_shape": "no-rounded",
+					"ham_size": "weluka-medium",
+					"ham_bold": "0",
+					"ham_underline": "0",
+					"ham_italic": "0",
+					"ham_drower": "on",
+					"padding_top": "5"
+				}],
+				"sm_col": "2",
+				"xs_col": "3"
+			}, {
+				"id": "{%ID-5%}",
+				"col": "4",
+				"items": [{
+					"id": "{%ID-6%}",
+					"type": "img",
+					"class_name": "weluka-text-left",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/r5rBxPJY55.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "5",
+					"hideviews": "sm,xs"
+				}, {
+					"id": "{%ID-7%}",
+					"type": "img",
+					"class_name": "weluka-text-right",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/r5rBxPJY55.png",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_top": "5",
+					"hideviews": "lg,md"
+				}],
+				"sm_col": "10",
+				"xs_col": "9"
+			}, {
+				"id": "{%ID-7%}",
+				"col": "7",
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "text",
+					"text": "<div class=\"weluka-text-right\">Lorem ipsum dolor sit amet, sed facete melius inermis ut, inermis docendi ad cum, usu facer posidonium et.<\/div>"
+				}, {
+					"id": "{%ID-9%}",
+					"subrows": [{
+						"id": "{%ID-10%}",
+						"subcolums": [{
+							"id": "{%ID-11%}",
+							"col": "5",
+							"subitems": [{
+								"id": "{%ID-12%}",
+								"type": "text",
+								"text": "<div class=\"weluka-text-right\" style=\"font-size:22px;\">\n<i class=\"fa fa-envelope-o\" style=\"padding-right:12px;\"><\/i>\n<a href=\"#\" style=\"color:#f1f1f1;\">Contact us<\/a>\n<\/div>",
+								"margin_top": "0",
+								"margin_bottom": "0"
+							}],
+							"sm_col": "5"
+						}, {
+							"id": "{%ID-13%}",
+							"col": "4",
+							"subitems": [{
+								"id": "{%ID-14%}",
+								"type": "text",
+								"text": "[weluka-phone no=\"0399999999\" disp=\"03-9999-9999\" i=true style=\"font-size:22px;color:#f1f1f1;text-align:right;\" tag=\"div\"]",
+								"margin_top": "0",
+								"margin_bottom": "0"
+							}],
+							"sm_col": "4"
+						}, {
+							"id": "{%ID-15%}",
+							"col": "3",
+							"subitems": [{
+								"id": "{%ID-16%}",
+								"type": "sns_button",
+								"class_name": "weluka-text-right",
+								"direction": "h",
+								"margin_top": "0",
+								"buttons": [{
+									"name": "facebook",
+									"url": "https:\/\/www.facebook.com\/",
+									"text": ""
+								}, {
+									"name": "twitter",
+									"url": "https:\/\/x.com\/",
+									"text": ""
+								}, {
+									"name": "instagram",
+									"url": "https:\/\/www.instagram.com\/",
+									"text": ""
+								}]
+							}],
+							"sm_col": "3"
+						}]
+					}]
+				}],
+				"sm_col": "12",
+				"xs_col": "12"
+			}]
+		}],
+		"container_type": "weluka-container",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"color": "#f1f1f1",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}]
+}

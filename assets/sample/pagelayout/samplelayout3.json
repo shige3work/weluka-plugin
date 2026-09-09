@@ -1,0 +1,573 @@
+{
+	"sections": [{
+		"id": "{%ID-1%}",
+		"background_image": "//cldup.com/Ktw7EQ04FX.jpg",
+		"rows": [{
+			"id": "{%ID-2%}",
+			"colums": [{
+				"id": "{%ID-3%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-4%}",
+					"type": "text",
+					"text": "<h3 class=\"weluka-text-center\">Lorem ipsum dolor sit amet, congue orci justo semper eros.<br \/>Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae.<\/h3>"
+				}]
+			}],
+			"background_color": "rgba(255,255,255,0.38)",
+			"color": "#89845a",
+			"border_size": "2",
+			"border_style": "solid",
+			"border_color": "#89845a",
+			"padding_top": "30",
+			"padding_bottom": "30",
+			"padding_sm_left": "20",
+			"padding_sm_right": "20",
+			"padding_xs_top": "20",
+			"padding_xs_bottom": "20",
+			"padding_xs_left": "20",
+			"padding_xs_right": "20"
+		}],
+		"container_height": "70",
+		"container_valign": "on",
+		"bg_type": "image",
+		"attachment_id": "",
+		"full": {
+			"url": "",
+			"width": "",
+			"height": ""
+		},
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"container_sm_height": "auto",
+		"padding_sm_top": "120",
+		"padding_sm_bottom": "120",
+		"container_xs_height": "auto",
+		"padding_xs_top": "80",
+		"padding_xs_bottom": "80",
+		"padding_xs_left": "30",
+		"padding_xs_right": "30"
+	}, {
+		"id": "{%ID-5%}",
+		"rows": [{
+			"id": "{%ID-6%}",
+			"colums": [{
+				"id": "{%ID-7%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-8%}",
+					"type": "text",
+					"text": "<p>Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et. Vehicula accumsan libero nisl amet sodales quam, cum pulvinar amet tellus scelerisque metus eu, maecenas duis sodales in sapien bibendum ornare, nulla vestibulum, odio fusce sed non pellentesque adipiscing. Lobortis sagittis porttitor orci risus, quisque augue a sodales rhoncus, sed vestibulum. Augue tincidunt ultricies, est eget sit, imperdiet sociis sagittis curabitur urna lorem, velit felis hendrerit laoreet dolor porttitor diam. Elit auctor nunc rutrum, malesuada et tortor feugiat venenatis. Tempor in faucibus, tempus sed turpis faucibus sodales, non sociis, ut vel tellus congue dui ultrices blandit. Duis purus magna arcu odio ac elit, id ultricies pede justo elit pretium nec, ut semper hendrerit, amet non.<\/p>",
+					"padding_top": "20"
+				}],
+				"padding_xs_left": "30",
+				"padding_xs_right": "30"
+			}]
+		}]
+	}, {
+		"id": "{%ID-9%}",
+		"background_color": "#f0f2f2",
+		"rows": [{
+			"id": "{%ID-10%}",
+			"colums": [{
+				"id": "{%ID-11%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-12%}",
+					"type": "img",
+					"attachment_id": "",
+					"class_name": "weluka-text-center",
+					"margin_top": "0",
+					"margin_bottom": "0",
+					"thumbnail": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"medium": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"large": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"full": {
+						"url": "",
+						"width": "",
+						"height": ""
+					},
+					"source_type": "extern",
+					"url": "",
+					"external": "//cldup.com/BRl-LK7p6q.gif",
+					"link": {
+						"action": "",
+						"href": "",
+						"target": ""
+					},
+					"fitwidth": "on"
+				}],
+				"padding_left": "0",
+				"padding_right": "0",
+				"cssClass": "weluka-nolineheight weluka-col-md-push-6"
+			}, {
+				"id": "{%ID-13%}",
+				"col": "6",
+				"items": [{
+					"id": "{%ID-14%}",
+					"type": "text",
+					"text": "<p style=\"line-height:2;\">Lorem ipsum dolor sit amet, congue orci justo semper eros. Ridiculus nec aliquet sit vel quisque, quam potenti donec quis pellentesque vitae. Tellus sodales euismod ac in magna, erat aliquet tincidunt hac tortor consectetuer. Id metus tellus commodo. Erat hendrerit justo vel, elit tincidunt, cursus maecenas sodales in, ut consectetuer nec in in, vitae lobortis et.<\/p>",
+					"padding_top": "50"
+				}, {
+					"id": "{%ID-15%}",
+					"type": "button",
+					"text": "LINK TEXT",
+					"class_name": "weluka-text-center",
+					"button_color": "weluka-btn-default",
+					"link": {
+						"action": "gotolink",
+						"href": "#",
+						"target": ""
+					},
+					"padding_sm_bottom": "40",
+					"padding_xs_bottom": "40"
+				}],
+				"padding_left": "50",
+				"padding_right": "50",
+				"cssClass": "weluka-col-md-pull-6"
+			}],
+			"background_color": "rgba(137,132,90,0.36)"
+		}, {
+			"id": "{%ID-16%}",
+			"colums": [{
+				"id": "{%ID-17%}",
+				"col": "10",
+				"items": [{
+					"id": "{%ID-18%}",
+					"subrows": [{
+						"id": "{%ID-19%}",
+						"subcolums": [{
+							"id": "{%ID-20%}",
+							"col": 12,
+							"subitems": [{
+								"id": "{%ID-21%}",
+								"type": "title",
+								"text": "<h3 style=\"text-align: center;\">BLOCK TITLE<\/h3>"
+							}]
+						}]
+					}, {
+						"id": "{%ID-22%}",
+						"subcolums": [{
+							"id": "{%ID-23%}",
+							"col": "3",
+							"subitems": [{
+								"id": "{%ID-24%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "img-circle",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/LT5hLxphzR.jpg",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								}
+							}, {
+								"id": "{%ID-25%}",
+								"type": "title",
+								"text": "<div style=\"text-align: center;\">SERVICE TITLE TEXT<\/div>"
+							}],
+							"padding_left": "30",
+							"padding_right": "30",
+							"padding_sm_left": "60",
+							"sm_col": "6",
+							"xs_col": "6"
+						}, {
+							"id": "{%ID-26%}",
+							"col": "3",
+							"subitems": [{
+								"id": "{%ID-27%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "img-circle",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/LT5hLxphzR.jpg",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								}
+							}, {
+								"id": "{%ID-28%}",
+								"type": "title",
+								"text": "<div style=\"text-align: center;\">SERVICE TITLE TEXT<\/div>"
+							}],
+							"padding_left": "30",
+							"padding_right": "30",
+							"padding_sm_right": "60",
+							"sm_col": "6",
+							"xs_col": "6"
+						}, {
+							"id": "{%ID-29%}",
+							"col": "3",
+							"subitems": [{
+								"id": "{%ID-30%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "img-circle",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/LT5hLxphzR.jpg",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								}
+							}, {
+								"id": "{%ID-31%}",
+								"type": "title",
+								"text": "<div style=\"text-align: center;\">SERVICE TITLE TEXT<\/div>"
+							}],
+							"padding_left": "30",
+							"padding_right": "30",
+							"padding_sm_left": "60",
+							"sm_col": "6",
+							"xs_col": "6"
+						}, {
+							"id": "{%ID-32%}",
+							"col": "3",
+							"subitems": [{
+								"id": "{%ID-33%}",
+								"type": "img",
+								"attachment_id": "",
+								"class_name": "weluka-text-center",
+								"shape": "img-circle",
+								"thumbnail": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"medium": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"large": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"full": {
+									"url": "",
+									"width": "",
+									"height": ""
+								},
+								"source_type": "extern",
+								"url": "",
+								"external": "//cldup.com/LT5hLxphzR.jpg",
+								"link": {
+									"action": "",
+									"href": "",
+									"target": ""
+								}
+							}, {
+								"id": "{%ID-34%}",
+								"type": "title",
+								"text": "<div style=\"text-align: center;\">SERVICE TITLE TEXT<\/div>"
+							}],
+							"padding_left": "30",
+							"padding_right": "30",
+							"padding_sm_right": "60",
+							"sm_col": "6",
+							"xs_col": "6"
+						}]
+					}]
+				}],
+				"cssClass": "weluka-col-md-offset-1"
+			}],
+			"background_color": "#ffffff",
+			"color": "#89845a",
+			"padding_top": "30",
+			"padding_bottom": "30"
+		}],
+		"bg_type": "image",
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "70",
+		"padding_bottom": "70",
+		"padding_xs_top": "30",
+		"padding_xs_bottom": "30"
+	}, {
+		"id": "{%ID-34%}",
+		"rows": [{
+			"id": "{%ID-35%}",
+			"colums": [{
+				"id": "{%ID-36%}",
+				"col": 12,
+				"items": [{
+					"id": "{%ID-37%}",
+					"type": "title",
+					"text": "<h3 style=\"text-align: center;color:#89845a;\">PROFILE<\/h3>"
+				}]
+			}]
+		}, {
+			"id": "{%ID-38%}",
+			"colums": [{
+				"id": "{%ID-39%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-40%}",
+					"type": "applist",
+					"layout_class": "mediatop",
+					"media_display": "",
+					"title_display": "1",
+					"meta1_display": "",
+					"meta2_display": "1",
+					"content_display": "1",
+					"button_display": "",
+					"row_spacing": "30",
+					"row_column": "3",
+					"layout_class_sm": "mediatop",
+					"layout_class_xs": "mediatop",
+					"row_column_sm": "2",
+					"row_column_xs": "2",
+					"media_col": "4",
+					"media_align": "weluka-text-left",
+					"media_shape": null,
+					"title_html_tag": "h4",
+					"title_bold": 0,
+					"title_underline": 0,
+					"title_italic": 0,
+					"title_align": "weluka-text-center",
+					"title_color": "#e66162",
+					"meta1_bold": "0",
+					"meta1_underline": "0",
+					"meta1_italic": "0",
+					"meta1_align": "weluka-text-center",
+					"meta1_color": "#2b2b2b",
+					"meta2_bold": "0",
+					"meta2_underline": "0",
+					"meta2_italic": "0",
+					"meta2_align": "weluka-text-center",
+					"meta2_font_size": "15",
+					"meta2_color": "#2b2b2b",
+					"content_align": "weluka-text-center",
+					"button_align": null,
+					"button_color": "weluka-btn-info",
+					"datas": [{
+						"title": {
+							"text": "BLOCK TITLE TEXT"
+						},
+						"content": {
+							"text": "congue orci justo semper eros"
+						},
+						"meta1": {
+							"text": ""
+						},
+						"meta2": {
+							"text": "Lorem ipsum dolor sit amet"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"title": {
+							"text": "BLOCK TITLE TEXT"
+						},
+						"content": {
+							"text": "congue orci justo semper eros"
+						},
+						"meta1": {
+							"text": ""
+						},
+						"meta2": {
+							"text": "Lorem ipsum dolor sit amet"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"title": {
+							"text": "BLOCK TITLE TEXT"
+						},
+						"content": {
+							"text": "congue orci justo semper eros"
+						},
+						"meta1": {
+							"text": ""
+						},
+						"meta2": {
+							"text": "Lorem ipsum dolor sit amet"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"title": {
+							"text": "BLOCK TITLE TEXT"
+						},
+						"content": {
+							"text": "congue orci justo semper eros"
+						},
+						"meta1": {
+							"text": ""
+						},
+						"meta2": {
+							"text": "Lorem ipsum dolor sit amet"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"title": {
+							"text": "BLOCK TITLE TEXT"
+						},
+						"content": {
+							"text": "congue orci justo semper eros"
+						},
+						"meta1": {
+							"text": ""
+						},
+						"meta2": {
+							"text": "Lorem ipsum dolor sit amet"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}, {
+						"title": {
+							"text": "BLOCK TITLE TEXT"
+						},
+						"content": {
+							"text": "congue orci justo semper eros"
+						},
+						"meta1": {
+							"text": ""
+						},
+						"meta2": {
+							"text": "Lorem ipsum dolor sit amet"
+						},
+						"link": {
+							"href": "",
+							"target": ""
+						}
+					}]
+				}],
+				"padding_top": "20"
+			}]
+		}],
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"bg_overlay_color": "",
+		"padding_top": "70",
+		"padding_bottom": "70"
+	}, {
+		"id": "{%ID-41%}",
+		"rows": [{
+			"id": "{%ID-42%}",
+			"colums": [{
+				"id": "{%ID-43%}",
+				"col": "12",
+				"items": [{
+					"id": "{%ID-44%}",
+					"type": "gmap",
+					"addr": "\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u4e38\u306e\u51851-9-1",
+					"url": "",
+					"map_w": "100%",
+					"map_h": "400",
+					"zoom": "16"
+				}],
+				"padding_left": "0",
+				"padding_right": "0"
+			}]
+		}],
+		"container_type": "weluka-container-fluid",
+		"bg_type": "image",
+		"full": [],
+		"bgsize_type": "cover",
+		"bgrepeat": "no-repeat",
+		"bgattachment": "fixed",
+		"padding_top": "0",
+		"padding_bottom": "0"
+	}],
+	"pagesetting": {
+		"onepage": 1,
+		"hide_title": "1"
+	}
+}
