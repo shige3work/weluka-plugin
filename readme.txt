@@ -4,7 +4,8 @@ Donate link:
 Tags: admin, admin interface, post, page, cutom post, builder, theme options, plugin options, web fonts
 Requires at least: 6.0
 Tested up to: 7.1
-Stable tag: 1.3.1
+Requires PHP: 7.4
+Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,6 +37,12 @@ Visit our website at [http://www.weluka.me/]
 == Screenshots ==
 
 == Changelog ==
+
+= 1.4.1 =
+* WordPress 7.1 (7.1.3) compatibility check. Declared Requires at least / Tested up to / Requires PHP headers.
+
+= 1.4.0 =
+* Private fork initial release. PHP 8.x compatibility patches and GitHub auto-update (plugin-update-checker v5.7).
 
 Visit our [change logs page](https://www.weluka.me/changelog) for up-to-date information on what has been going on with the development of weluka.
 

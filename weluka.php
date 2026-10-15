@@ -4,11 +4,14 @@
  * Plugin URI: https://github.com/shige3work/weluka-plugin
  * Description: WELUKA is bootstrap base content builder, theme setting for Wordpress (Private Fork Edition).
  * Author: SHIGE3.WORK
- * Version: 1.4.0
+ * Version: 1.4.1
  * Author URI: https://www.shige3.work
  * License: GPL2+
  * Text Domain: weluka
  * Domain Path: /languages/
+ * Requires at least: 6.0
+ * Tested up to: 7.1
+ * Requires PHP: 7.4
  * Update URI: https://github.com/shige3work/weluka-plugin
  */
 
@@ -17,7 +20,7 @@ if( !defined( 'ABSPATH' ) ) {
 	die;
 }
 
-define( 'WELUKA_VERSION', '1.4.0' );
+define( 'WELUKA_VERSION', '1.4.1' );
 
 // Plugin Update Checker (GitHub automatic updates)
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
